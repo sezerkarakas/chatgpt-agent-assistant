@@ -1,0 +1,48 @@
+{
+    "collection": [
+      {
+        "document": "Monster Notebook Teknik Servis - Ürün Gönderimi",
+        "content": "Teknik Servisimize kargo ile ürün göndererek de hizmet alabilirsiniz. Yurtiçi Kargo üzerinden ücret ödemeden, Monster Notebook hesabımızı kullanarak ürününüzü tarafımıza ulaştırabilirsiniz."
+      },
+      {
+        "document": "Ürününüzün Servis Durumunu Takip Etmek İçin Aşağıdaki Yöntemleri Kullanabilirsiniz:",
+        "content": "Elden Teslim Edilen Ürünler: Servis kaydınız oluşturulduktan sonra tarafınıza SMS ile bir servis takip linki gönderilecektir. Bu link üzerinden ürününüzün onarım sürecini detaylı olarak takip edebilirsiniz."
+      },
+      {
+        "document": "Kargo ile Gönderilen Ürünler",
+        "content": "Ürününüzü kargo ile gönderdiyseniz, kargo gönderim numaranız ile kargonuzun nerede olduğunu takip edebilirsiniz. Ürününüz servisimize ulaştığında 24 saat içerisinde servis kaydı oluşturulacak ve size SMS ile bir servis takip linki iletilecektir. Bu link üzerinden ürününüzün onarım sürecini takip edebilirsiniz."
+      },
+      {
+        "document": "Ürününüzü Monster Notebook Teknik Servisi’ne Ücretsiz Olarak Ulaştırmak İçin",
+        "content": "Yurtiçi Kargo Şubesine giderek, kargo yetkilisine 678599726 numaralı Monster Notebook Hesap Numarasını vermeniz yeterlidir. Karşı ödemeli gönderim yapacağınızı belirtin. Cihazınızın yetkili servise gidiş gelişindeki kargo ücretleri Monster Bilgisayar Teknoloji Ürünleri A.Ş. tarafından karşılanacaktır."
+      },
+      {
+        "document": "Kargo Gönderim Detayları",
+        "content": "Taşıma sırasında zarar görmemesi için ürününüzü sağlam şekilde paketlemelisiniz. Kargo firması yanlış ve eksik paketlemeden kaynaklanan hasarlardan ötürü sorumluluk kabul etmeyecektir. Yurtiçi Kargo dışında farklı kargo firması ile ürün gönderimi istenmesi durumunda tüm hasar sorumluluğu ve gönderi ücreti kullanıcıya aittir."
+      },
+      {
+        "document": "Teslimat Adresi",
+        "content": "Monster İnovasyon Merkezi\nTeslimat adresi: Hürriyet Mh. Altan Sk. No : 3 Kartal/İstanbul"
+      },
+      {
+        "document": "Servis Dönüşü Ürün Kontrolü",
+        "content": "Servis dönüşü ürünü kargodan teslim alırken kontrol etmeyi, ürünün hasarlı olması durumunda kargo görevlisine tutanak tutturmayı unutmayınız."
+      },
+      {
+        "document": "Veri Yedeği ve Onarımı",
+        "content": "Ürünlerinizin içerisinde data olması halinde ürününüze tam olarak müdahale edilemez. Ürününüz teknik serviste test diski ile test edilir. Bu sebepten dolayı ürününüzü servisten teslim aldığınızda disk ve yazılımsal hatalar ile karşılaşabilirsiniz."
+      },
+      {
+        "document": "Arıza Notu",
+        "content": "Arızalı ürün servis sürecimiz 1 ile 7 iş günü arasındadır. Veri silme onayını arıza notuna ekleyerek veri kaybını önleyebilirsiniz."
+      },
+      {
+        "document": "Servis Süreci",
+        "content": "Servis süreçlerinde Ticaret Bakanlığının belirlediği 20 iş günü süreci uygulanmaktadır. Servisimizde arıza tespit ya da teşhis ücreti alınmamaktadır."
+      }
+    ],
+    "index_name": "Monster-Servis-123",
+    "max_document_length": 180,
+    "split_documents": true
+  }
+  

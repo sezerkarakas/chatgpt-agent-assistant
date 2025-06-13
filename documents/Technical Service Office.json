@@ -1,0 +1,40 @@
+{
+    "technical_service_offices": [
+        {
+            "name": "Kartal Teknik Servis",
+            "address": "Hürriyet Mahallesi, Yakacık D100 Kuzey Yanyol Dış Kapı No:53, Kartal/İstanbul",
+            "working_hours": "09:00-19:00 (Pazar hariç)",
+            "appointment_required": true
+        },
+        {
+            "name": "Kadıköy Teknik Servis",
+            "address": "Osmanağa Mahallesi, Mühürdar Fuat Sokak No:10, 34714 Kadıköy/İstanbul",
+            "working_hours": "09:00-19:00 (Pazar hariç)",
+            "appointment_required": true
+        },
+        {
+            "name": "Beşyol Teknik Servis",
+            "address": "Beşyol Mahallesi, Beşyüz İkinci Sokak No:8, 34295 Küçükçekmece/İstanbul",
+            "working_hours": "09:00-19:00 (Pazar hariç)",
+            "appointment_required": true
+        },
+        {
+            "name": "İzmir Teknik Servis",
+            "address": "İsmet Kaptan Mahallesi, Gazi Bulvarı No:93, Konak/İzmir",
+            "working_hours": "09:00-19:00 (Pazar hariç)",
+            "appointment_required": true
+        },
+        {
+            "name": "Ankara Teknik Servis",
+            "address": "Çukurambar Mahallesi, Ufuk Üniversitesi Caddesi, Farilya İş Merkezi No:8, Çankaya/Ankara",
+            "working_hours": "09:00-19:00 (Pazar hariç)",
+            "appointment_required": true
+        },
+        {
+            "name": "Bursa Teknik Servis",
+            "address": "Odunluk Mahallesi, Akpınar Caddesi, Şentürkler İş Merkezi No:7, Nilüfer/Bursa",
+            "working_hours": "09:00-19:00 (Pazar hariç)",
+            "appointment_required": true
+        }
+    ]
+}

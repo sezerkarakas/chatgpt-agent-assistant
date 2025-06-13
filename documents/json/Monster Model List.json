@@ -1,0 +1,28 @@
+{
+    "collection": [
+      {
+        "document": "Tulpar Serisi",
+        "content": "Tulpar T6, Tulpar T5, Tulpar T7"
+      },
+      {
+        "document": "Abra Serisi",
+        "content": "Abra A5, Abra A7"
+      },
+      {
+        "document": "Huma Serisi",
+        "content": "Huma H4"
+      },
+      {
+        "document": "Semruk Serisi",
+        "content": "Semruk S7"
+      },
+      {
+        "document": "Markut Serisi",
+        "content": "Markut M7"
+      }
+    ],
+    "index_name": "Monster-Seri-123",
+    "max_document_length": 180,
+    "split_documents": true
+  }
+  

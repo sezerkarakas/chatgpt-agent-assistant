@@ -1,0 +1,110 @@
+{
+  "warning": "BU DOSYADA LISTELENMEYEN HIÇBIR ADRES GEÇERLI DEĞILDIR",
+  "collection": [
+    {
+      "document": "Kartal Teknik Servis",
+      "content": [
+        {
+          "title": "Çalışma saatleri:",
+          "steps": [
+            "Çalışma saatlerimiz pazar günü hariç dokuzdan yediye kadardır."
+          ]
+        },
+        {
+          "title": "Adres:",
+          "steps": [
+            "Hürriyet Mahallesi Yakacık D100 Kuzey Yanyol Dış Kapı No:53 Kartal / İstanbul"
+          ]
+        }
+      ]
+    },
+    {
+      "document": "Kadıköy Teknik Servis",
+      "content": [
+        {
+          "title": "Çalışma saatleri:",
+          "steps": [
+            "Çalışma saatlerimiz pazar günü hariç dokuzdan yediye kadardır."
+          ]
+        },
+        {
+          "title": "Adres:",
+          "steps": [
+            "Osmanağa Mühürdar Fuat Sokağı No:On, 34714 Kadıköy/İstanbul"
+          ]
+        }
+      ]
+    },
+    {
+      "document": "Beşyol Teknik Servis",
+      "content": [
+        {
+          "title": "Çalışma saatleri:",
+          "steps": [
+            "Çalışma saatlerimiz pazar günü hariç dokuzdan yediye kadardır."
+          ]
+        },
+        {
+          "title": "Adres:",
+          "steps": [
+            "Beşyol, Beşyüz İkinci Sokak. No:Sekiz, 34295 Küçükçekmece/İstanbul"
+          ]
+        }
+      ]
+    },
+    {
+      "document": "İzmir Teknik Servis",
+      "content": [
+        {
+          "title": "Çalışma saatleri:",
+          "steps": [
+            "Çalışma saatlerimiz pazar günü hariç dokuzdan yediye kadardır."
+          ]
+        },
+        {
+          "title": "Adres:",
+          "steps": [
+            "İsmet Kaptan Mahallesi Gazi Bulvarı No:Doksan Üç Konak/İzmir"
+          ]
+        }
+      ]
+    },
+    {
+      "document": "Ankara Teknik Servis",
+      "content": [
+        {
+          "title": "Çalışma saatleri:",
+          "steps": [
+            "Çalışma saatlerimiz pazar günü hariç dokuzdan yediye kadardır."
+          ]
+        },
+        {
+          "title": "Adres:",
+          "steps": [
+            "Çukurambar Mahallesi, Ufuk Üniversitesi Caddesi, Farilya İş Merkezi No:Sekiz Çankaya/Ankara"
+          ]
+        }
+      ]
+    },
+    {
+      "document": "Bursa Teknik Servis",
+      "content": [
+        {
+          "title": "Çalışma saatleri:",
+          "steps": [
+            "Çalışma saatlerimiz pazar günü hariç dokuzdan yediye kadardır."
+          ]
+        },
+        {
+          "title": "Adres:",
+          "steps": [
+            "Odunluk, Akpınar Caddesi Şentürkler İş Merkezi No:Yedi Nilüfer/Bursa"
+          ]
+        }
+      ]
+    }
+  ],
+  "index_name": "Teknik-Servis-Adresleri-123",
+  "max_document_length": 180,
+  "split_documents": true
+}
