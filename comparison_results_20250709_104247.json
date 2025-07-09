@@ -1,0 +1,237 @@
+{
+  "vector_store": [
+    {
+      "question": "Monster notebook modellerini listeleyebilir misin?",
+      "response": "Monster notebook modelleri şunlardır:\n\n**Tulpar Serisi:**\n- Tulpar T6\n- Tulpar T5\n- Tulpar T7\n\n**Abra Serisi:**\n- Abra A5\n- Abra A7\n\n**Huma Serisi:**\n- Huma H4\n\n**Semruk Serisi:**\n- Semruk S7\n\n**Markut Serisi:**\n- Markut M7",
+      "response_time": 4.402873516082764,
+      "method": "vector_store_alternative",
+      "tokens": 3413,
+      "cost_estimate": 0.0005515499999999999,
+      "prompt_tokens": 3325,
+      "completion_tokens": 88
+    },
+    {
+      "question": "Garantili ürün nasıl servise gönderilir?",
+      "response": "Garantili ürününüzü Monster Notebook Teknik Servisi'ne kargo ile göndermek için aşağıdaki adımları izleyebilirsiniz:\n\n1. Yurtiçi Kargo'ya gidin.\n2. Kargo yetkilisine 678599726 numaralı Monster Notebook Hesap Numarasını verin ve karşı ödemeli gönderim yapacağınızı belirtin.\n3. Ürününüzü sağlam bir şekilde paketleyin. Orijinal kutusunda ve köpük/sünger malzeme ile desteklenmiş olarak göndermeye özen gösterin.\n4. Paketin içerisine arıza notu ekleyin.\n5. Ürününüzün servis durumunu takip etmek için, kargo gönderim numaranız ile kargonuzun nerede olduğunu kontrol edebilirsiniz.\n\nÜrününüzü Monster İnovasyon Merkezi'ne göndereceksiniz:\n\nAdres:  \nHürriyet Mh. Altan Sk. No: 3  \nKartal/İstanbul\n\nServis dönüşü ürünü kargodan teslim alım esnasında kontrol etmeyi, ürünün hasarlı olması durumunda kargo görevlisine tutanak tutturmayı unutmayınız.",
+      "response_time": 8.055339574813843,
+      "method": "vector_store_alternative",
+      "tokens": 3570,
+      "cost_estimate": 0.0006462,
+      "prompt_tokens": 3324,
+      "completion_tokens": 246
+    },
+    {
+      "question": "Kargo ücreti kim tarafından karşılanır?",
+      "response": "Kargo ücretleri, cihazınızın yetkili servise gidiş gelişindeki kargo ücretleri Monster Bilgisayar Teknoloji Ürünleri A.Ş. tarafından karşılanacaktır.",
+      "response_time": 1.5448565483093262,
+      "method": "vector_store_alternative",
+      "tokens": 3366,
+      "cost_estimate": 0.0005229,
+      "prompt_tokens": 3326,
+      "completion_tokens": 40
+    },
+    {
+      "question": "Teknik servis süreci ne kadar sürer?",
+      "response": "Arızalı ürün servis sürecimiz 1 ile 7 iş günü arasındadır. Bu süreci aşan ürünler için servis tarafından ayrıca bilgilendirileceksiniz.",
+      "response_time": 1.639007806777954,
+      "method": "vector_store_alternative",
+      "tokens": 3362,
+      "cost_estimate": 0.00052095,
+      "prompt_tokens": 3325,
+      "completion_tokens": 37
+    },
+    {
+      "question": "Servis takip numarası nasıl alınır?",
+      "response": "Servis takip numarası, ürününüzü teknik servise gönderdiğinizde kargo ile birlikte alınır. Eğer ürününüzü kargo ile gönderdiyseniz, kargo gönderim numaranız ile kargonuzun nerede olduğunu takip edebilirsiniz. \n\nÜrününüz servisimize ulaştığında, 24 saat içerisinde servis kaydı oluşturulacak ve size SMS ile bir servis takip linki iletilecektir. Bu link üzerinden ürününüzün onarım sürecini takip edebilirsiniz.",
+      "response_time": 2.3692493438720703,
+      "method": "vector_store_alternative",
+      "tokens": 3428,
+      "cost_estimate": 0.000561,
+      "prompt_tokens": 3324,
+      "completion_tokens": 104
+    },
+    {
+      "question": "Hangi kargo firması kullanılmalı?",
+      "response": "Ürünlerinizi Monster Notebook Teknik Servisi'ne göndermek için Yurtiçi Kargo kullanılmalıdır.",
+      "response_time": 1.2271766662597656,
+      "method": "vector_store_alternative",
+      "tokens": 3346,
+      "cost_estimate": 0.0005118,
+      "prompt_tokens": 3324,
+      "completion_tokens": 22
+    },
+    {
+      "question": "Veri yedeği neden önemli?",
+      "response": "Bu bilgi sistemimizde mevcut değil.",
+      "response_time": 0.6330413818359375,
+      "method": "vector_store_alternative",
+      "tokens": 3331,
+      "cost_estimate": 0.00050325,
+      "prompt_tokens": 3323,
+      "completion_tokens": 8
+    },
+    {
+      "question": "Servis adresi nedir?",
+      "response": "Monster Notebook Teknik Servisi'ne kargo gönderecekseniz, teslimat adresi aşağıdaki gibidir:\n\n**Monster İnovasyon Merkezi**  \nHürriyet Mh. Altan Sk. No: 3  \nKartal/İstanbul",
+      "response_time": 1.6295645236968994,
+      "method": "vector_store_alternative",
+      "tokens": 3374,
+      "cost_estimate": 0.0005294999999999999,
+      "prompt_tokens": 3322,
+      "completion_tokens": 52
+    },
+    {
+      "question": "Arıza tespit ücreti alınır mı?",
+      "response": "Servisimizde arıza tespit ya da teşhis ücreti alınmamaktadır.",
+      "response_time": 2.415968894958496,
+      "method": "vector_store_alternative",
+      "tokens": 3347,
+      "cost_estimate": 0.0005110499999999999,
+      "prompt_tokens": 3327,
+      "completion_tokens": 20
+    },
+    {
+      "question": "WhatsApp üzerinden destek alabilir miyim?",
+      "response": "Bu bilgi sistemimizde mevcut değil.",
+      "response_time": 0.7175369262695312,
+      "method": "vector_store_alternative",
+      "tokens": 3332,
+      "cost_estimate": 0.0005034,
+      "prompt_tokens": 3324,
+      "completion_tokens": 8
+    }
+  ],
+  "rag": [
+    {
+      "question": "Monster notebook modellerini listeleyebilir misin?",
+      "response": "Bu bilgi sistemimizde mevcut değil.",
+      "response_time": 0.8740530014038086,
+      "method": "rag",
+      "tokens": 1710,
+      "cost_estimate": 0.0002601,
+      "search_time": 0.2673530578613281,
+      "generation_time": 0.6066999435424805,
+      "relevant_docs_count": 3,
+      "prompt_tokens": 1702,
+      "completion_tokens": 8
+    },
+    {
+      "question": "Garantili ürün nasıl servise gönderilir?",
+      "response": "Garantili ürününüzü servise göndermek için aşağıdaki adımları takip edebilirsiniz:\n\n1. **Yurtiçi Kargo'yu Kullanın:** Ürününüzü Yurtiçi Kargo üzerinden göndereceksiniz.\n2. **Hesap Numarasını Verin:** Kargo yetkilisine 678599726 numaralı Monster Notebook Hesap Numarasını vermeniz yeterlidir.\n3. **Karşı Ödemeli Gönderim:** Gönderiminizi karşı ödemeli olarak yapacağınızı belirtin.\n4. **Arıza Notu Ekleyin:** Ürününüzün içerisine arıza notu eklemeyi unutmayın.\n5. **Paketleme:** Ürününüzü sağlam bir kutu içine yerleştirip, köpük ve sünger gibi malzemelerle destekleyerek paketleyin.\n6. **Gönderim Adresi:** Ürünü aşağıdaki adrese gönderin:\n   ```\n   Monster İnovasyon Merkezi Teslimat\n   Hürriyet Mh. Altan Sk. No : 3\n   Kartal/İstanbul\n   ```\n\nÜrününüzü kargodan teslim alırken kontrol etmeyi, hasar durumunda kargo görevlisine tutanak tutturmayı unutmayın.",
+      "response_time": 8.476826906204224,
+      "method": "rag",
+      "tokens": 2199,
+      "cost_estimate": 0.00045359999999999997,
+      "search_time": 0.29642343521118164,
+      "generation_time": 8.180403470993042,
+      "relevant_docs_count": 3,
+      "prompt_tokens": 1924,
+      "completion_tokens": 275
+    },
+    {
+      "question": "Kargo ücreti kim tarafından karşılanır?",
+      "response": "Cihazınızın yetkili servise gidiş gelişindeki kargo ücretleri Monster Bilgisayar Teknoloji Ürünleri A.Ş. tarafından karşılanacaktır.",
+      "response_time": 1.634021282196045,
+      "method": "rag",
+      "tokens": 1963,
+      "cost_estimate": 0.00031065,
+      "search_time": 0.2887389659881592,
+      "generation_time": 1.3452823162078857,
+      "relevant_docs_count": 3,
+      "prompt_tokens": 1927,
+      "completion_tokens": 36
+    },
+    {
+      "question": "Teknik servis süreci ne kadar sürer?",
+      "response": "Arızalı ürünlerin servis süreci 1 ile 7 iş günü arasındadır. Bu süreci aşan ürünler için servis tarafından ayrıca bilgilendirileceksiniz.",
+      "response_time": 1.6272878646850586,
+      "method": "rag",
+      "tokens": 2037,
+      "cost_estimate": 0.00032219999999999997,
+      "search_time": 0.25445985794067383,
+      "generation_time": 1.3728280067443848,
+      "relevant_docs_count": 3,
+      "prompt_tokens": 2000,
+      "completion_tokens": 37
+    },
+    {
+      "question": "Servis takip numarası nasıl alınır?",
+      "response": "Elden teslim edilen ürünler için servis kaydınız oluşturulduktan sonra tarafınıza SMS ile bir servis takip linki gönderilecektir. Bu link üzerinden ürününüzün onarım sürecini detaylı olarak takip edebilirsiniz. Kargo ile gönderilen ürünler için ise, ürününüz servisimize ulaştığında 24 saat içerisinde servis kaydı oluşturulacak ve size SMS ile bir servis takip linki iletilecektir. Bu link ile ürününüzün onarım sürecini takip edebilirsiniz.",
+      "response_time": 2.365593910217285,
+      "method": "rag",
+      "tokens": 2026,
+      "cost_estimate": 0.00034979999999999994,
+      "search_time": 0.3082923889160156,
+      "generation_time": 2.0573015213012695,
+      "relevant_docs_count": 3,
+      "prompt_tokens": 1924,
+      "completion_tokens": 102
+    },
+    {
+      "question": "Hangi kargo firması kullanılmalı?",
+      "response": "Yurtiçi Kargo kullanılmalıdır.",
+      "response_time": 0.7780051231384277,
+      "method": "rag",
+      "tokens": 1934,
+      "cost_estimate": 0.00029415,
+      "search_time": 0.26087093353271484,
+      "generation_time": 0.5171341896057129,
+      "relevant_docs_count": 3,
+      "prompt_tokens": 1925,
+      "completion_tokens": 9
+    },
+    {
+      "question": "Veri yedeği neden önemli?",
+      "response": "Bu bilgi sistemimizde mevcut değil.",
+      "response_time": 1.2783524990081787,
+      "method": "rag",
+      "tokens": 1423,
+      "cost_estimate": 0.00021705,
+      "search_time": 0.3777945041656494,
+      "generation_time": 0.9005579948425293,
+      "relevant_docs_count": 1,
+      "prompt_tokens": 1415,
+      "completion_tokens": 8
+    },
+    {
+      "question": "Servis adresi nedir?",
+      "response": "Monster Notebook Teknik Servisi'nin adresi:\n\nHürriyet Mh. Altan Sk. No : 3  \nKartal/İstanbul  \n\nServis dönüşü ürünü kargodan teslim alım esnasında kontrol etmeyi, ürünün hasarlı olması durumunda kargo görevlisine tutanak tutturmayı unutmayınız.",
+      "response_time": 1.7207558155059814,
+      "method": "rag",
+      "tokens": 1761,
+      "cost_estimate": 0.00029565,
+      "search_time": 0.23187518119812012,
+      "generation_time": 1.4888806343078613,
+      "relevant_docs_count": 3,
+      "prompt_tokens": 1691,
+      "completion_tokens": 70
+    },
+    {
+      "question": "Arıza tespit ücreti alınır mı?",
+      "response": "Servisimizde arıza tespit ya da teşhis ücreti alınmamaktadır.",
+      "response_time": 1.4573302268981934,
+      "method": "rag",
+      "tokens": 1702,
+      "cost_estimate": 0.0002643,
+      "search_time": 0.32364773750305176,
+      "generation_time": 1.1336824893951416,
+      "relevant_docs_count": 2,
+      "prompt_tokens": 1682,
+      "completion_tokens": 20
+    },
+    {
+      "question": "WhatsApp üzerinden destek alabilir miyim?",
+      "response": "Bu bilgi sistemimizde mevcut değil.",
+      "response_time": 1.7579467296600342,
+      "method": "rag",
+      "tokens": 2075,
+      "cost_estimate": 0.00031485,
+      "search_time": 0.32859182357788086,
+      "generation_time": 1.4293549060821533,
+      "relevant_docs_count": 3,
+      "prompt_tokens": 2067,
+      "completion_tokens": 8
+    }
+  ],
+  "timestamp": "2025-07-09T10:41:32.816690"
+}

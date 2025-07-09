@@ -2,6 +2,10 @@ from openai import OpenAI
 import os
 import time
 import re
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 def temizle_citation(cevap):
     return re.sub(r"【\d+:\d+†.*?】", "", cevap)
@@ -15,7 +19,7 @@ except FileNotFoundError:
     exit()
 
 # OpenAI istemcisini oluştur
-client = OpenAI()  # API keyinizi buraya girin
+client = OpenAI()  # API key .env dosyasından otomatik yüklenir
 
 # Asistanı oluştur
 assistant = client.beta.assistants.create(

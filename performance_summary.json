@@ -1,0 +1,31 @@
+{
+  "test_date": "2025-07-09T10:41:32.816690",
+  "systems_tested": {
+    "rag": "SUCCESS",
+    "vector_store": "FAILED - Assistant ID not found"
+  },
+  "rag_performance": {
+    "tests_completed": 10,
+    "avg_response_time": "2.197s",
+    "avg_tokens": "1883",
+    "total_cost": "$0.0031",
+    "cost_per_query": "$0.000308",
+    "median_response_time": "1.631s",
+    "min_response_time": "0.778s",
+    "max_response_time": "8.477s",
+    "total_tokens": 18830,
+    "min_tokens": 1423,
+    "max_tokens": 2199
+  },
+  "correlations": {
+    "response_time_tokens": 0.548,
+    "response_time_cost": 0.868,
+    "tokens_cost": 0.872
+  },
+  "recommendations": [
+    "RAG sistemi üretim için hazır",
+    "Vector Store konfigürasyonu gerekli",
+    "Düşük hacim için RAG ekonomik",
+    "Yüksek hacim için Vector Store araştırılmalı"
+  ]
+}
