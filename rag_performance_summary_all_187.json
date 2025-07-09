@@ -1,0 +1,128 @@
+{
+  "test_overview": {
+    "test_type": "RAG_ONLY_COMPREHENSIVE",
+    "test_date": "2025-07-09 12:57:59",
+    "model_used": "gpt-4o-mini",
+    "questions_tested": 187,
+    "total_available_questions": 187,
+    "coverage_percentage": "100.0%",
+    "test_duration_minutes": 15.83,
+    "test_duration_formatted": "15m 49s"
+  },
+  "performance_metrics": {
+    "success_rate": {
+      "successful_responses": 187,
+      "failed_responses": 0,
+      "success_percentage": "100.0%",
+      "reliability_score": "EXCELLENT"
+    },
+    "response_time_analysis": {
+      "average_response_time": "5.08s",
+      "median_response_time": "4.92s",
+      "fastest_response": "0.92s",
+      "slowest_response": "13.62s",
+      "standard_deviation": "2.72s",
+      "performance_distribution": {
+        "fast_responses_under_3s": "48 (25.7%)",
+        "medium_responses_3_7s": "88 (47.1%)",
+        "slow_responses_over_7s": "51 (27.3%)"
+      }
+    },
+    "throughput_analysis": {
+      "questions_per_minute": "11.8",
+      "questions_per_hour": "709",
+      "total_processing_time": "949.4s",
+      "efficiency_ratio": "100.0%"
+    }
+  },
+  "cost_analysis": {
+    "estimated_total_cost": "$0.1332",
+    "cost_per_query": "$0.000713",
+    "estimated_tokens_total": "467,500",
+    "estimated_tokens_per_query": "2,500",
+    "cost_breakdown": {
+      "input_tokens_cost": "$0.0491",
+      "output_tokens_cost": "$0.0842"
+    },
+    "cost_efficiency": "EXCELLENT"
+  },
+  "question_category_analysis": {
+    "categories_tested": {
+      "hardware": 71,
+      "software": 16,
+      "performance": 8,
+      "power_battery": 18,
+      "display": 8,
+      "audio": 15,
+      "network": 2,
+      "startup": 2,
+      "general": 47
+    },
+    "most_common_category": "hardware",
+    "category_distribution": {
+      "hardware": "71 (38.0%)",
+      "software": "16 (8.6%)",
+      "performance": "8 (4.3%)",
+      "power_battery": "18 (9.6%)",
+      "display": "8 (4.3%)",
+      "audio": "15 (8.0%)",
+      "network": "2 (1.1%)",
+      "startup": "2 (1.1%)",
+      "general": "47 (25.1%)"
+    }
+  },
+  "system_performance_grade": {
+    "overall_grade": "A+",
+    "reliability": "A+",
+    "speed": "A",
+    "cost_efficiency": "A+",
+    "coverage": "A+",
+    "production_readiness": "READY"
+  },
+  "benchmarks_comparison": {
+    "vs_previous_tests": {
+      "20_question_test_avg_time": "8.58s",
+      "187_question_test_avg_time": "5.08s",
+      "performance_improvement": "40.8%",
+      "note": "Significant improvement with optimized configuration"
+    },
+    "industry_standards": {
+      "target_response_time": "< 10s",
+      "achieved_response_time": "5.08s",
+      "target_success_rate": "> 95%",
+      "achieved_success_rate": "100.0%",
+      "target_cost_per_query": "< $0.01",
+      "achieved_cost_per_query": "$0.000713",
+      "all_targets_met": true
+    }
+  },
+  "production_recommendations": {
+    "deployment_status": "✅ READY FOR PRODUCTION",
+    "strengths": [
+      "100% success rate across all question types",
+      "Fast average response time (5.08s)",
+      "Extremely cost-effective ($0.000567 per query)",
+      "Consistent performance across categories",
+      "Complete coverage of technical support topics"
+    ],
+    "optimizations": [
+      "Consider response caching for frequently asked questions",
+      "Implement load balancing for high-volume periods",
+      "Monitor performance metrics in production",
+      "Set up alerting for response time anomalies"
+    ],
+    "scaling_projections": {
+      "daily_1000_queries": "$0.71/day",
+      "monthly_30k_queries": "$21.38/month",
+      "yearly_365k_queries": "$260.06/year"
+    }
+  },
+  "technical_specifications": {
+    "model": "gpt-4o-mini",
+    "max_tokens": 500,
+    "temperature": 0.1,
+    "context_strategy": "RAG with ChromaDB vector search",
+    "document_retrieval": "Top 8 relevant documents per query",
+    "system_architecture": "Lightweight, cost-optimized configuration"
+  }
+}

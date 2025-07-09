@@ -55,16 +55,37 @@ class PerformanceComparison:
                 'documents/Technical Service Office.txt'
             ]
             
-            for file_path in document_files:
+            # Add JSON files from the json subfolder
+            json_files = [
+                'documents/json/baglant_ag_sorunlar.json',
+                'documents/json/donanim_ekran_panel.json',
+                'documents/json/donanim_guc_batarya.json',
+                'documents/json/donanim_klavye_touchpad.json',
+                'documents/json/donanim_mentese_kasa.json',
+                'documents/json/donanim_usb_portlar.json',
+                'documents/json/genel_bilgilendirmeler_diger.json',
+                'documents/json/kurulum_ve_yazlm_sorunlar.json',
+                'documents/json/Monster Model List.json',
+                'documents/json/performans_sorunlar.json',
+                'documents/json/ses_hoparlor_problemleri.json',
+                'documents/json/Technical Service Information.json',
+                'documents/json/Technical Service Office.json'
+            ]
+            
+            all_files = document_files + json_files
+            
+            for file_path in all_files:
                 try:
                     with open(file_path, 'r', encoding='utf-8') as file:
                         documents_text += f"\n\n=== {file_path} ===\n{file.read()}"
                 except FileNotFoundError:
                     continue
+                except Exception as e:
+                    print(f"Warning: Could not load {file_path}: {e}")
             
             # Load system prompt
             try:
-                with open('gpt_prompt_v4.md', 'r', encoding='utf-8') as file:
+                with open('gpt_prompt_v333.md', 'r', encoding='utf-8') as file:
                     system_prompt = file.read()
             except FileNotFoundError:
                 system_prompt = "Sen Monster Notebook teknik destek asistanısın."

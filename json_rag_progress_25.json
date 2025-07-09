@@ -1,0 +1,580 @@
+{
+  "test_summary": {
+    "test_type": "JSON_RAG_COST_OPTIMIZED_PROGRESS",
+    "questions_completed": 25,
+    "total_questions": 187,
+    "test_date": "2025-07-09 17:03:39",
+    "model_used": "gpt-4o-mini",
+    "data_source": "documents/json/*.json files"
+  },
+  "results": [
+    {
+      "question_id": 1,
+      "question": "Bilgisayarımı yeni aldım. Windows kurulumunu yapamıyorum. Bu konuda \nbana destek olabilir misiniz?",
+      "expected_answer": "FreeDOS olarak satın alınmış cihazınızı kullanabilmek için Microsoft Windows işletim \nsistemini kurmanız gerekmektedir. Bunun için bir Microsoft Windows 10 veya 11 yükleme \nmedyasına ihtiyacınız var. Eğer elinizde bir yükleme aracı bulunmuyorsa Microsoft sizler için \nbu kolaylığı sağlıyor.  \nKurulumu yapabilmek için, en az 8 GB içerisi tamamen boş, sağlıklı bir USB belleğe ve \ninternete bağlı, işletim sistemi kurulu ve kullanılabilir bir bilgisayara ihtiyacınız var.  \nAdım 1: USB belleğinizi Kullanılabilir durumda olan bilgisayara takın. \nAdım 2: Aşağıda kurmak istediğiniz işletim sistemi için gereken uygulamayı indirin.   \nWindows 10 için: https://go.microsoft.com/fwlink/?LinkId=691209 \nWindows 11 İçin: https://go.microsoft.com/fwlink/?linkid=2171764 \nAdım 3: Uygulama adımlarını takip edin ve karşınıza gelen seçeneklerden ” Başka bir \nBilgisayar için yükleme medyası Oluştur” seçeneğini tıklayın.  \nAdım 4: Bu adıma aşağıda ki iki farklı yoldan birini tercih ederek devam edebilirsiniz. \nA- Sonraki pencerede USB Bellek seçeneğini seçtiğinizde takılı olan USB’yi seçerek. USB \nbelleğinizi bir Kurulum USB’sine otomatik olarak dönüştürebilirsiniz. USB’ye İndirme ve \nYazma işlemi bittikten sonra uygulama gerekli uyarıyı verecektir. USB böylece kuruluma hazır \nhale gelir.  \nB- Diğer bir Seçenekte İSO Dosyası oluştur seçeneği üzerinden bir kurulum medyası \nhazırlamaktadır. İSO dosyası oluştur seçeneğinden devam ederseniz. Harici olarak çok küçük \nboyutlu RUFUS adlı uygulamaya ihtiyacınız olacaktır. Bu uygulamayı indirdikten sonra \nhazırlanan İSO dosyasını USB’nize RUFUS uygulaması aracılığı ile özelliklerine kendi diskinize \nve ihtiyacınıza göre ayarlama imkanı vermektedir. Örneğin. Yüksek hızlı M.2 NVME bir SSD’ye \nsahipseniz. RUFUS’tan Disk bölüm düzenini GPT olarak seçmeniz önerilir.  \nAdım 5: A veya B yolundan Kurulum USB’nizi hazırladıktan sonra, USB belleği kurulum \nyapmak istediğiniz cihaza kapalı haldeyken takın, ardından cihazınızın adaptörünü prize takın \nve açma tuşuna basın. Açma tuşuna bastığınız an boot etme tuşunuza hızlıca bas çek \nyaparak. USB’nizde ki Windows kurulumunu aktif edebilir ve kuruluma başlayabilirsiniz. \nModele göre boot etme tuşları: \nABRA, TULPAR, SEMRUK İÇİN: F2, (Tulpar 25 Modeli için DEL tuşu) \nHUMA İÇİN: F11 \nGenel / Public / Kişisel Veri İçermez \n2 \n \nFormat atmak istediğinizde de aynı adımları uygulayarak bir yükleme medyası oluşturabilir ve \nyeniden kuruluma geçebilirsiniz.  \nMONSTER WİNDOWS KURULUM REHBERİ VİDEOLU ANLATIM: \nWin 10 için: https://www.youtube.com/watch?v=gHBx-Z8b7XA \n \n  Win 11 için: https://www.youtube.com/watch?v=hSiOm0G_ypM \nTeknik Destek İçin \n0850 255 11 11 - Destek@monsternotebook.com",
+      "json_rag_result": {
+        "answer": "Merhaba, bilgisayarınızın Windows kurulumunu yapabilmeniz için aşağıdaki adımları takip edebilirsiniz. Bu işlem için bir Microsoft Windows 10 veya 11 yükleme medyasına ihtiyacınız olacak. Eğer elinizde bir yükleme aracı yoksa, Microsoft bu konuda size yardımcı olmaktadır.\n\n**Gerekli Malzemeler:**\n- En az 8 GB içerisi tamamen boş, sağlıklı bir USB bellek\n- İnternete bağlı, işletim sistemi kurulu ve kullanılabilir bir bilgisayar\n\n**Adım 1:** USB belleğinizi kullanılabilir durumda olan bilgisayara takın.\n\n**Adım 2:** Aşağıda kurmak istediğiniz işletim sistemi için gereken uygulamayı indirin.  \n- Windows 10 için: [Windows 10 İndirme](https://go.microsoft.com/fwlink/?LinkId=691209)  \n- Windows 11 için: [Windows 11 İndirme](https://go.microsoft.com/fwlink/?linkid=2171764)\n\n**Adım 3:** Uygulama adımlarını takip edin ve karşınıza gelen seçeneklerden \"Başka bir Bilgisayar için yükleme medyası Oluştur\" seçeneğini tıklayın.\n\n**Adım 4:** \n- A seçeneği: Sonraki pencerede USB Bellek seçeneğini seçin ve takılı olan USB’yi seçerek USB belleğinizi bir Kurulum USB’sine otomatik olarak dönüştürün. USB’ye indirme ve yazma işlemi bittikten sonra uygulama gerekli uyarıyı verecektir. USB böylece kuruluma hazır hale gelir.\n- B seçeneği: İSO Dosyası oluştur seçeneği üzerinden bir kurulum medyası hazırlayın. İSO dosyası oluştur seçeneğinden devam ederseniz, RUFUS adlı uygulamayı indirmeniz gerekecek. Bu uygulama ile hazırlanan İSO dosyasını USB’nize aktarabilirsiniz.\n\n**Adım 5:** A veya B yolundan Kurulum USB’nizi hazırladıktan sonra, USB belleği kurulum yapmak istediğiniz cihaza kapalı haldeyken takın. Ardından cihazınızın adaptörünü prize takın ve açma tuşuna basın. Açma tuşuna bastığınız an boot etme tuşunuza hızlıca basarak USB’nizdeki Windows kurulumunu aktif edebilir ve kuruluma başlayabilirsiniz. \n\n**Modele göre boot etme tuşları:**\n- ABRA, TULPAR, SEMRUK için: F2 (Tulpar 25 Modeli için DEL tuşu)\n- HUMA için: F11\n\n**Ek Bilgi:** Format atmak istediğinizde de aynı adımları uygulayarak bir yükleme medyası oluşturabilir ve yeniden kuruluma geçebilirsiniz.\n\n**Destek için:**  \nTeknik Destek: 0850 255 11 11  \nE-posta: Destek@monsternotebook.com\n\nBu bilgiler, Windows kurulumunu yapmanıza yardımcı olacaktır. Başka bir sorunuz olursa lütfen sormaktan çekinmeyin.",
+        "response_time": 12.810264348983765,
+        "sources": [
+          "genel_bilgilendirmeler_diger.json",
+          "kurulum_ve_yazlm_sorunlar.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json"
+        ],
+        "documents_used": 8,
+        "tokens": 5762,
+        "prompt_tokens": 5106,
+        "completion_tokens": 656,
+        "cost": 0.0011595,
+        "success": true
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "Bilgisayarımın sürücülerini nasıl kurabilirim?",
+      "expected_answer": "Sürücüleriniz değişen teknoloji karşısında sürekli olarak güncellenmektedir. Güncel \nsürücüleri İntel ve NVDİA üzerinden edinebilirsiniz. \nEn güncel İntel sürücüler için: \nhttps://www.intel.com.tr/content/www/tr/tr/support/detect.html \nEn Güncel NVDİA Sürücüler İçin: https://www.nvidia.com/tr-tr/geforce/geforce-experience/ \nKontrol Merkezi, Sound blaster gibi uygulamalar için \nise  https://www.monsternotebook.com.tr/suruculer/ sayfasından ürününüze ait modeli \nseçip ilgili sayfadan indirebilirsiniz.  \nNot: Bilgisayarınızı satın alırken sizlere yanında verilen USB bellek içerisinde ki \nsürücüler,  İnternet olmayan ortamda bilgisayarınızı kurabilmeniz için verilmektedir. USB \niçerisinde ki sürücüler güncelliğini yitirmiş olabilir.",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın sürücülerini kurmak için aşağıdaki adımları izleyebilirsiniz:\n\n1. **Monster Notebook'un Resmi Web Sitesine Gidin**: Monster Notebook'un resmi web sitesine gidin.\n2. **Destek veya İndirme Bölümünü Bulun**: Ana sayfada \"Destek\" veya \"İndirmeler\" bölümünü bulun.\n3. **Modelinizi Seçin**: Bilgisayar modelinizi seçin. (Örneğin: Abra A5 V13.2)\n4. **Sürücüleri İndirin**: İlgili sürücüleri (grafik kartı, ses kartı, ağ kartı vb.) indirin.\n5. **İndirdiğiniz Dosyaları Açın**: İndirdiğiniz dosyaları açın ve kurulum talimatlarını izleyin.\n6. **Kurulum Tamamlandığında Bilgisayarı Yeniden Başlatın**: Tüm sürücüler kurulduktan sonra bilgisayarınızı yeniden başlatın.\n\nBu adımları takip ederek sürücülerinizi başarılı bir şekilde kurabilirsiniz. Eğer herhangi bir sorunla karşılaşırsanız, teknik destek almak için Monster Notebook'un teknik servisine başvurabilirsiniz. \n\nKaynak: `monster_support_categorized/kurulum_ve_yazlm_sorunlar.json`",
+        "response_time": 4.663238763809204,
+        "sources": [
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_guc_batarya.json",
+          "donanim_mentese_kasa.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_ekran_panel.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2771,
+        "prompt_tokens": 2487,
+        "completion_tokens": 284,
+        "cost": 0.00054345,
+        "success": true
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "Bana gönderilen USB bellek çalışmıyor. Ne yapabilirim?",
+      "expected_answer": "Çalışmayan USB belleğe dair bir video çekip info@monsternotebook.com adresine \nkişisel adresiniz, cihaz modeli ve seri numarası ve iletişim bilgilerinizi yazarak mail \ngöndermeniz halinde yeni bir USB bellek gönderebiliriz. \nAyrıca Web sitemizin, Çözüm Merkezi bölümünde, Sürücüler başlığına tıklayarak, Uygun \ncihaz modelini seçebilir ve sürücülerinizi güncel olarak indirebilirsiniz.  \nhttps://www.monsternotebook.com.tr/suruculer/",
+      "json_rag_result": {
+        "answer": "USB bellek ile ilgili yaşadığınız sorun için aşağıdaki adımları izleyebilirsiniz:\n\n1. Çalışmayan USB belleğe dair bir video çekin.\n2. Bu videoyu info@monsternotebook.com adresine gönderin.\n3. Mailinize kişisel adresinizi, cihaz modelinizi, seri numaranızı ve iletişim bilgilerinizi ekleyin.\n4. Bu işlemi tamamladıktan sonra, yeni bir USB bellek gönderilecektir.\n\nAyrıca, Monster Notebook'un web sitesinde bulunan Çözüm Merkezi bölümüne giderek \"Sürücüler\" başlığına tıklayabilir ve uygun cihaz modelinizi seçerek sürücülerinizi güncel olarak indirebilirsiniz. Web sitesi bağlantısı: [Monster Sürücüler](https://www.monsternotebook.com.tr/suruculer/)\n\nBu adımları takip ederek sorununuzu çözebilirsiniz. Başka bir konuda yardımcı olmamı ister misiniz? \n\n**Kaynaklar:**\n- USB bellek ile ilgili çözüm önerileri.",
+        "response_time": 3.72782564163208,
+        "sources": [
+          "donanim_usb_portlar.json",
+          "donanim_klavye_touchpad.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_mentese_kasa.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2684,
+        "prompt_tokens": 2466,
+        "completion_tokens": 218,
+        "cost": 0.0005007,
+        "success": true
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "Sound blaster uygulaması hata veriyor. Nasıl çözebilirim?",
+      "expected_answer": "Genel / Public / Kişisel Veri İçermez \n3 \n \nBilgisayarınızın desteklediği Sound Blaster sürümünüz nedir? \nSound Blaster 5 \nSound Blaster 5 Uygulamasının ''Your audio device cannot be detected please check your \nconnection'' hatası vermesi durumunda aşağıdaki adımlar uygulanmalıdır; \n1.Realtek Audio sürücüsü ve Sound Blaster 5 sürücüsü kaldırılarak cihaz yeniden \nbaşlatılmalıdır. \n2.https://www.monsternotebook.com.tr/suruculer/ sayfası üzerinden cihaz modeline uygun \nRealtek Ses Sürücüsü tekrar yükleyerek cihaz yeniden başlatılmalıdır. \n3.Sound Blaster 5 uygulamasını yüklemek için Micrrosoft Store > Kitaplığım (Hesap oturumu \nkapalı olmalıdır) > Sound Blaster Connect adımlarından uygulama tekrar yüklenmelidir. \nSound Blaster 6 \nSound Blaster 6 Uygulamasının ''Your audio device cannot be detected please check your \nconnection'' hatası vermesi durumunda aşağıdaki adımlar uygulanmalıdır; \n1. Sound Blaster 6 Uygulamasının ''Your audio device cannot be detected please check your \nconnection'' hatası vermesi durumunda aşağıdaki adımlar uygulanmalıdır; \n2. Bilgisayarımdaki Sürücülere Gözat > Bilgisayarımdaki Kullanılabilir sürücülerin bir \nlistesinden seçmeme izin ver, seçeneği seçilmelidir. \n3. Açılan menüdeki sürücü listesinden ''realtek high definition audio '' sürücüsü seçilerek \nsonraki butonuna basılmalıdır. \n4. Sürücü yüklemesi tamamlandıktan sonra cihaz yeniden başlatılmalıdır. \nSound Blaster 6 Plus \nSound Blaster 6 Plus Uygulamasının ''Your audio device cannot be detected please check \nyour connection'' hatası vermesi durumunda aşağıdaki adımlar uygulanmalıdır; \n \n1. Aygıt Yöneticisi > Ses, Video ve oyun denetleyicisi (Aygıt başlığı) > Realtek(R) Audio (Sağ \nklik yapılarak Cihazı Kaldır seçeneği seçilmelidir, ardından açılan menüdeki ''Bu cihazın sürücü \nyazılımını sil kutucuğuda'' seçilerek ''Kaldır'' butonuna basılmalıdır ) \n \n2. Cihaz Yeniden Başlatılmalıdır. \n3. Aygıt Yöneticisi >Eylem > Donanım Değişikliklerini Tara (Bu işlem ile silmiş olduğumuz aygıt \nyazılımının windows tarafındaki varsayılan sürücülerini tekrar geri yüklemiş oluyoruz) \n4. https://www.monsternotebook.com.tr/suruculer/ sayfasından cihaz modeline uygun \nSound Blaster sürücüleri indirilerek RAR arşivinden çıkarılmalıdır. \n5. Aygıt Yöneticisi > Ses, Video ve oyun denetleyicisi (Aygıt başlığı) > Realtek(R) Audio (Sağ \nklik) > Sürücüyü Güncelleştir > Bilgisayarımdaki Sürücülere Gözat > Bilgisayarımdaki \nkullanılabilir sürücülerin bir listesinden seçmeme izin ver > Disketi var > Gözat (Açılan \nmenüden sürücüler sayfasından indirilen ''Realtek(R) Audio'' sürücü klasörü seçilerek Aç \nbutonuna basılmalıdır) \n6. Sürücü yüklemesi başlatılarak kısa bir süre beklenmelidir. \n7. Yükleme işlemleri tamamlandıktan sonra cihaz yeniden başlatılmalıdır. \nGenel / Public / Kişisel Veri İçermez \n4",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızda Sound Blaster uygulaması hata veriyorsa, aşağıdaki adımları izleyerek sorunu çözebilirsiniz:\n\n### Sound Blaster 5 için:\n1. Realtek Audio sürücüsünü ve Sound Blaster 5 sürücüsünü kaldırın.\n2. Bilgisayarınızı yeniden başlatın.\n3. [Bu bağlantıdan](https://www.monsternotebook.com.tr/suruculer/) cihaz modelinize uygun Realtek Ses Sürücüsünü tekrar yükleyin ve bilgisayarınızı yeniden başlatın.\n4. Sound Blaster 5 uygulamasını yüklemek için Microsoft Store'a gidin, Kitaplığım sekmesine tıklayın (Hesap oturumu kapalı olmalıdır) ve Sound Blaster Connect uygulamasını tekrar yükleyin.\n\n### Sound Blaster 6 için:\n1. Bilgisayarım'daki Sürücülere Gözat seçeneğini seçin.\n2. Açılan menüdeki sürücü listesinden \"Realtek High Definition Audio\" sürücüsünü seçin ve sonraki butonuna basın.\n3. Sürücü yüklemesi tamamlandıktan sonra bilgisayarınızı yeniden başlatın.\n\n### Sound Blaster 6 Plus için:\n1. Aygıt Yöneticisi'ni açın, Ses, Video ve oyun denetleyicisi başlığı altında Realtek(R) Audio'ya sağ tıklayın ve \"Cihazı Kaldır\" seçeneğini seçin. \"Bu cihazın sürücü yazılımını sil\" kutucuğunu işaretleyin ve \"Kaldır\" butonuna basın.\n2. Cihazı yeniden başlatın.\n3. Aygıt Yöneticisi'nde Eylem > Donanım Değişikliklerini Tara seçeneğini tıklayın.\n4. [Bu bağlantıdan](https://www.monsternotebook.com.tr/suruculer/) cihaz modelinize uygun Sound Blaster sürücülerini indirin ve RAR arşivinden çıkarın.\n5. Aygıt Yöneticisi'nde Realtek(R) Audio'ya sağ tıklayın, Sürücüyü Güncelleştir > Bilgisayarımdaki Sürücülere Gözat > Bilgisayarımdaki kullanılabilir sürücülerin bir listesinden seçmeme izin ver seçeneğini seçin.\n6. İndirilen \"Realtek(R) Audio\" sürücü klasörünü seçin ve yükleme işlemini başlatın.\n7. Yükleme tamamlandıktan sonra bilgisayarınızı yeniden başlatın.\n\nEğer bu adımlar sorununuzu çözmezse, teknik servise başvurmanız gerekebilir. Servis hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz.\n\n**Kaynaklar:**\n- Sound Blaster 5, Sound Blaster 6 ve Sound Blaster 6 Plus için hata çözüm adımları.",
+        "response_time": 31.871100425720215,
+        "sources": [
+          "ses_hoparlor_problemleri.json",
+          "kurulum_ve_yazlm_sorunlar.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json",
+          "donanim_guc_batarya.json"
+        ],
+        "documents_used": 8,
+        "tokens": 4117,
+        "prompt_tokens": 3478,
+        "completion_tokens": 639,
+        "cost": 0.0009050999999999999,
+        "success": true
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "İntel grafik sürücüsünü kurarken hata veriyor ne yapmalıyım?",
+      "expected_answer": "İntel Support Asistant Uygulamasını yükleyerek, intel grafik kartınızın güncel versiyonunu \nyükleyebilirsiniz.   \nhttps://www.intel.com.tr/content/www/tr/tr/support/intel-driver-support-assistant.html \nYükleme esnasında herhangi bir hata alırsanız, Aşağıda ki sorun giderme adımlarını \ndeneyebilirsiniz.  \n1.Intel® Arc™ & Iris® Xe (UHD) Grafik kartının güncel sürücüsünü aşağıdaki bağlantıyı \nkullanarak indirin. \nhttps://www.intel.com.tr/content/www/tr/tr/download/726609/intel-arc-iris-xe-graphics-\nwhql-windows.html \n2.İndirilen dosyayı sağ tık yaparak, klasöre ayıkla (Rar, Zip vb. uygulamaları gerekmektedir.) \nseçeneği ile exe dosyasını klasöre çıkarınız. \n 3.  Windows, Başlat çubuğu üzerinde ki arama kısmına “Aygıt Yöneticisi” yazarak, Çıkan Aygıt \nyöneticisi simgesini tıklayarak açalım.   \n4. Görüntü bağdaştırıcılarını bulup çift tıklayın. Menü aşağıya doğru genişleyecektir. Buradan \nİntel Grafik Kartınıza sağ tık yapıp, “Sürücüyü güncelleştir”, seçeneğini seçelim.  \n5. Açılan pencereden bilgisayarımda ki “sürücülere göz at” >> Bilgisayarımda ki kullanılabilir \nsürücülüleri listeden seçmeme izin ver >> Disketi var >> Göz at >>  \n6. İndirip, klasöre ayıklamış olduğunuz gfx_win_101.4314 (İntel Grafik Kartı Sürücüsü) isimli \ndosyanın konumunu bulunuz >> İçinde yer alan ”Graphics” Klasörüne girerek.” iigd_dch” \ndosyasını çift tıklayınız. Ardından Tamam butonuna basarak, >> ”Sonraki” seçeneğini \ntıklayınız. Yükleme işlemi başlayacaktır.",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızda Intel grafik sürücüsünü kurarken hata alıyorsanız, aşağıdaki adımları izleyerek sorunu çözmeyi deneyebilirsiniz:\n\n1. **Intel Support Assistant Uygulamasını yükleyin**: Bu uygulama, Intel grafik kartınızın güncel sürümünü yüklemenize yardımcı olacaktır. Uygulamayı buradan indirebilirsiniz: [Intel Support Assistant](https://www.intel.com.tr/content/www/tr/tr/support/intel-driver-support-assistant.html).\n\n2. **Sürücüyü manuel olarak indirin**: Aşağıdaki bağlantıyı kullanarak Intel® Arc™ & Iris® Xe (UHD) grafik kartının güncel sürücüsünü indirin:\n   - [Intel Grafik Sürücüsü İndir](https://www.intel.com.tr/content/www/tr/tr/download/726609/intel-arc-iris-xe-graphics-whql-windows.html).\n\n3. **Dosyayı ayıklayın**: İndirilen dosyaya sağ tıklayın ve \"Klasöre ayıkla\" seçeneğini kullanarak .exe dosyasını klasöre çıkarın.\n\n4. **Aygıt Yöneticisini açın**: Windows'un Başlat çubuğundaki arama kısmına “Aygıt Yöneticisi” yazarak çıkan simgeyi tıklayın.\n\n5. **Görüntü bağdaştırıcılarını bulun**: Görüntü bağdaştırıcıları bölümünü bulup çift tıklayın. Buradan Intel Grafik Kartınıza sağ tıklayın ve “Sürücüyü güncelleştir” seçeneğini seçin.\n\n6. **Sürücü dosyasını seçin**: Açılan pencereden \"bilgisayarımda ki sürücülere göz at\" seçeneğini seçin. Ardından \"Bilgisayarımda ki kullanılabilir sürücüleri listeden seçmeme izin ver\" seçeneğini işaretleyin ve \"Disketi var\" seçeneğine tıklayın.\n\n7. **Dosya konumunu bulun**: İndirip, klasöre ayıklamış olduğunuz gfx_win_101.4314 (İntel Grafik Kartı Sürücüsü) isimli dosyanın konumunu bulun. İçinde yer alan \"Graphics\" klasörüne girin ve \"iigd_dch\" dosyasını çift tıklayın.\n\n8. **Yükleme işlemini başlatın**: Ardından \"Tamam\" butonuna basarak, \"Sonraki\" seçeneğini tıklayın. Yükleme işlemi başlayacaktır.\n\nEğer bu adımlar sorununuzu çözmezse, teknik servise başvurmanızı öneririm. Servis hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz.\n\nBu yanıt, \"İntel grafik sürücüsünü kurarken hata veriyor ne yapmalıyım?\" sorusuna yönelik olarak hazırlanmıştır.",
+        "response_time": 14.1083824634552,
+        "sources": [
+          "donanim_guc_batarya.json",
+          "donanim_usb_portlar.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json",
+          "kurulum_ve_yazlm_sorunlar.json"
+        ],
+        "documents_used": 8,
+        "tokens": 4585,
+        "prompt_tokens": 3943,
+        "completion_tokens": 642,
+        "cost": 0.00097665,
+        "success": true
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "Modem ve internetimde bir sorun yok, Ancak/Ama bilgisayarımda Wifi \nbağlantı hızım aşırı düşüyor. Sorunu nasıl çözebilirim?",
+      "expected_answer": "İntel Wifi sürücünüzü güncelledikten sonra problemin çözülmemesi halinde, \nBilgisayarınızı Wifi kartınızın kontrol edilmesi için teknik servisimize ulaştırmanızı rica ederiz.  \nDetaylı bilgi için, web sitemizin teknik servis sayfasını ziyaret edebilirsiniz.  \nhttps://www.monsternotebook.com.tr/teknik-servis/ \n \n \n \nGenel / Public / Kişisel Veri İçermez \n5",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızda Wi-Fi bağlantı hızının aşırı düşmesi, çeşitli nedenlerden kaynaklanabilir. Aşağıdaki adımları izleyerek sorunu çözmeyi deneyebilirsiniz:\n\n1. **Wi-Fi Sürücüsünü Güncelleyin**: \n   - Bilgisayarınızın \"Aygıt Yöneticisi\"ni açın.\n   - \"Ağ Bağlantıları\" bölümünden Wi-Fi adaptörünü bulun.\n   - Sağ tıklayıp \"Sürücüyü Güncelle\" seçeneğini seçin.\n\n2. **Ağ Ayarlarını Sıfırlayın**:\n   - Başlat menüsüne gidin ve \"Ayarlar\"ı açın.\n   - \"Ağ ve İnternet\" bölümüne tıklayın.\n   - \"Ağ sıfırlama\" seçeneğini bulun ve talimatları izleyin.\n\n3. **Modem ve Router'ı Yeniden Başlatın**:\n   - Modem ve router'ınızı kapatın, birkaç dakika bekleyin ve tekrar açın.\n\n4. **Farklı Bir Wi-Fi Kanalı Deneyin**:\n   - Modem arayüzüne girerek farklı bir Wi-Fi kanalı seçin. Genellikle 1, 6 veya 11 kanalları daha az yoğunluktadır.\n\n5. **Güç Tasarrufu Ayarlarını Kontrol Edin**:\n   - \"Aygıt Yöneticisi\"nde Wi-Fi adaptörüne sağ tıklayın ve \"Özellikler\"e gidin.\n   - \"Güç Yönetimi\" sekmesinde \"Bu aygıtın bilgisayarı uyandırmasına izin ver\" seçeneğini devre dışı bırakın.\n\n6. **Anteni Kontrol Edin**:\n   - Eğer harici bir Wi-Fi anteni kullanıyorsanız, bağlantısını kontrol edin ve gerekirse yeniden takın.\n\n7. **Farklı Bir Cihazla Test Edin**:\n   - Aynı Wi-Fi ağına başka bir cihazla bağlanarak hız testi yapın. Eğer diğer cihazda sorun yoksa, sorun bilgisayarınıza özgüdür.\n\n8. **Güvenlik Duvarı ve Antivirüs Yazılımlarını Kontrol Edin**:\n   - Güvenlik duvarı veya antivirüs yazılımlarının Wi-Fi bağlantınızı engelleyip engellemediğini kontrol edin.\n\n9. **İnternet Servis Sağlayıcınızla İletişime Geçin**:\n   - Eğer yukarıdaki adımlar sorunu çözmezse, internet servis sağlayıcınızla iletişime geçin.\n\nEğer bu adımları uyguladıktan sonra sorun devam ederse, bilgisayarınızın Wi-Fi kartının kontrol edilmesi için teknik servisimize ulaşmanızı öneririz. Detaylı bilgi için, web sitemizin teknik servis sayfasını ziyaret edebilirsiniz: [Teknik Servis](https://www.monsternotebook.com.tr/teknik-servis/).\n\nBu yanıt, \"Modem ve internetimde bir sorun yok, Ancak/Ama bilgisayarımda Wifi bağlantı hızım aşırı düşüyor. Sorunu nasıl çözebilirim?\" sorusuna yönelik olarak hazırlanmıştır.",
+        "response_time": 22.317233324050903,
+        "sources": [
+          "baglant_ag_sorunlar.json",
+          "performans_sorunlar.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_ekran_panel.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_usb_portlar.json",
+          "kurulum_ve_yazlm_sorunlar.json"
+        ],
+        "documents_used": 8,
+        "tokens": 3765,
+        "prompt_tokens": 3081,
+        "completion_tokens": 684,
+        "cost": 0.0008725499999999999,
+        "success": true
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "Bilgisayarım yavaş açılıyor. Beklediğimden çok daha uzun sürüyor.  Ne \nyapabilirim?",
+      "expected_answer": "Bilgisayarınızın yavaş açılmasının sebebi yazılımsal veya donanımsal sorunlardan kaynaklı \nolabilir.   \nA- Windows 10 & 11 işletim sisteminizin başlangıç ayarları üzerinde herhangi bir \ndeğişiklik yapmadıysanız, Görev yöneticisini açın ve Başlangıç kategorisini tıklayın. \nBilgisayarınız açıldığında otomatik başlayan gereksiz uygulamaları buradan devre dışı \nbırakın. Örneğin: Steam, Epic Games, Teams, Skype, Discord vb. ihtiyacınız olduğunda \ntıklayıp açabileceğiniz uygulamaların başlangıçta otomatik olarak çalışmasını görev \nyöneticisi veya kendi ayarlarından kapatabilirsiniz. Böylece daha hızlı bir Windows \naçılışı sağlayabilirsiniz. \n \nB- Bu işlemler sorununuzu çözmez ise kontrol için SSD’nize çeşitli güvenilir uygulamaları \nkullanarak benchmark testi uygulayabilirsiniz. SSD Benchmark test sonuçları \nürününüzü satın alırken SSD özelliklerinde bulunan okuma, yazma hızına en az %90 \noranında yakınsa, bilgisayarınızın yavaş açılmasının sebebi Windows işletim sistemi \ndosyalarında ki eksiklik ve hatalardan kaynaklanabilir. \n \nC- Bu durumda Bilgisayarınızı sağlıklı bir formatlama yani işletim sistemini silip, yeniden \nkurma işlemini yapmanızı tavsiye ederiz. Eğer Windows işletim sisteminizi, Monster \nNotebook’tan satın aldıysanız, ürününüzü teknik servisimize bu talep ile \ngönderebilirsiniz. \n \n  \nD- SSD  benchmark testinizin istenilen sonucu vermemesi gibi bir durumda bilgisayarınızı \nteknik servisimize göndermenizi tavsiye ederiz.  \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/ \n \n \n \n \n \n \n \nGenel / Public / Kişisel Veri İçermez \n6",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın yavaş açılması, çeşitli nedenlerden kaynaklanabilir. Aşağıdaki adımları izleyerek sorunu çözmeyi deneyebilirsiniz:\n\n1. **Başlangıç Programlarını Kontrol Edin**:\n   - Görev Yöneticisi'ni açın (Ctrl + Shift + Esc tuşlarına basarak).\n   - \"Başlangıç\" sekmesine gidin.\n   - Gereksiz olan programları devre dışı bırakın.\n\n2. **Disk Temizliği Yapın**:\n   - Başlat menüsünde \"Disk Temizleme\" araması yapın ve açın.\n   - Temizlemek istediğiniz sürücüyü seçin (genellikle C: sürücüsü).\n   - Gereksiz dosyaları silin.\n\n3. **Antivirüs Taraması Yapın**:\n   - Bilgisayarınızda güncel bir antivirüs yazılımı ile tam sistem taraması yapın.\n   - Zararlı yazılımları temizleyin.\n\n4. **Sürücü Güncellemelerini Kontrol Edin**:\n   - Aygıt Yöneticisi'ni açın.\n   - Donanım bileşenlerinizi kontrol edin ve güncellemeleri yükleyin.\n\n5. **Sabit Diskin Sağlığını Kontrol Edin**:\n   - \"cmd\" komut istemcisini yönetici olarak açın.\n   - `chkdsk /f` komutunu girin ve Enter'a basın.\n   - Bilgisayarınızı yeniden başlatın ve taramanın tamamlanmasını bekleyin.\n\n6. **RAM ve Depolama Alanını Kontrol Edin**:\n   - Bilgisayarınızda yeterli RAM ve depolama alanı olduğundan emin olun.\n   - Gerekirse RAM eklemeyi veya SSD'ye geçmeyi düşünün.\n\n7. **Gereksiz Uygulamaları Kaldırın**:\n   - Denetim Masası'ndan veya Ayarlar'dan gereksiz uygulamaları kaldırın.\n\n8. **Sistem Geri Yükleme**:\n   - Eğer sorun yeni başladıysa, sistem geri yükleme ile bilgisayarınızı daha önceki bir tarihe döndürebilirsiniz.\n\nEğer yukarıdaki adımlar sorununuzu çözmezse, bilgisayarınızı teknik servisimize ulaştırmanız gerekebilir. Servis süreci hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz.\n\nBu yanıt, genel bilgilendirmeler ve performans sorunları ile ilgili belgelerden derlenmiştir.",
+        "response_time": 10.951668977737427,
+        "sources": [
+          "donanim_mentese_kasa.json",
+          "donanim_klavye_touchpad.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_guc_batarya.json"
+        ],
+        "documents_used": 8,
+        "tokens": 3144,
+        "prompt_tokens": 2586,
+        "completion_tokens": 558,
+        "cost": 0.0007227,
+        "success": true
+      }
+    },
+    {
+      "question_id": 8,
+      "question": "Bilgisayarımda almam gereken FPS’leri alamıyorum. FPS değerlerim çok \ndüşük nasıl çözebilirim?",
+      "expected_answer": "Bilgisayarınızın FPS değerleri kullandığınız oyun ve uygulamaların sistem gereksinimlerine \ngöre değişiklik gösterecektir. \nÖncelikle bilgisayarınızı maksimum performansta kullanmak için, lisanslı Windows işletim \nsistemi ile ve şarjda kullanmanızı tavsiye ederiz. Şarj kablonuzun takılı olmaması \ndurumunda oyunlarda düşük FPS almanız normaldir.  \nPerformans ayarlarınızı aşağıdaki adımları uygulayarak yapabilirsiniz; \n \n1. İşletim sisteminiz ve grafik kartı sürücüleriniz güncel olmalıdır. \n \n2. Güncel İntel Grafik sürücüleri \n https://www.intel.com.tr/content/www/tr/tr/download/19344/intel-graphics-windows-\ndch-drivers.html adresinden indirilebilir.  \nNvidia Sürücüleri https://www.nvidia.com.tr/drivers adresinden veya Nvidia Experience \nüzerinden Sürücüler > Güncelleştirmeleri Kontol Et seçeneği ile yükleyebilirsiniz. (Nvidia \nSürücüleri güncel değil ise yeni sürüm görünecektir) \n \n3.Denetim Masası > Tüm Denetim Masası Öğeleri > Güç Seçenekleri Menüsünden Yüksek \nPerformans Modu seçilmelidir. \n4.Nvidia Denetim Masası > Görüntü ayarlarını önayarla yap > Benim tercihlerimi kullan ve \nşunlara önem ver (işaretlenmelidir) > Alt tarafta bulunan çubuk en sol tarafa alınarak \nPerformans Moduna getirilmelidir > Sağ alt köşede bulunan Uygula butonuna \nbasılmalıdır. \n5.Nvidia Denetim Masası > 3D Ayarlarının Yönetilmesi > Genel Ayarlar > Tercih Edilen \nGrafik İşlemcisi > Yüksek Performanslı Nvidia İşlemcisi \n 6.Nvidia Denetim Masası > 3D Ayarlarının Yönetilmesi > Genel Ayarlar > Güç Yönetimi \nModu > Maksimum Performansı Tercih Et \n \n7.Nvidia GeForce Experience uygulamasına giriş yapılarak > Ayarlar > Oyunlar > \nOPTİMUM OYNANABİLİRLİK AYARLARI başlığı altında ki ‘’Yeni eklenen oyunları otomatik \nolarak optimize et’’ seçeneğinin tiki kaldırılmalıdır. \n \n8.Nvidia GeForce Experience  > Genel > Whisper Mode Kapatılmalıdır > Battery Boost \nKapatılmalıdır  >  Son olarak cihaz yeniden başlatılmalıdır. \nGenel / Public / Kişisel Veri İçermez \n7 \n \n \n9.Değiştirilebilir Ekran Kartı özelliği bulunan cihazlarda BİOS menüsünden dGPU seçeneği \nseçilmelidir. Ek olarak https://www.youtube.com/watch?v=SFwJhUalvqQ adresinden \nMonster Notebook'larda Performans Ayarları Nasıl Yapılır? isimli videomuzu \nizleyebilirsiniz. \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızda almamanız gereken FPS değerleri ve düşük FPS sorunları, çeşitli sebeplerden kaynaklanabilir. Aşağıda bu durumu çözmek için izleyebileceğiniz adımlar yer almaktadır:\n\n1. **İşletim Sistemi ve Sürücü Güncellemeleri**: İşletim sisteminiz ve grafik kartı sürücülerinizin güncel olduğundan emin olun. \n   - Güncel İntel Grafik sürücüleri için: [Intel Grafik Sürücüleri](https://www.intel.com.tr/content/www/tr/tr/download/19344/intel-graphics-windows-dch-drivers.html)\n   - Nvidia Sürücüleri için: [Nvidia Sürücüleri](https://www.nvidia.com.tr/drivers) veya Nvidia Experience üzerinden \"Sürücüler > Güncelleştirmeleri Kontrol Et\" seçeneğini kullanabilirsiniz.\n\n2. **Güç Seçenekleri**: Denetim Masası > Tüm Denetim Masası Öğeleri > Güç Seçenekleri menüsünden \"Yüksek Performans\" modunu seçin.\n\n3. **Nvidia Denetim Masası Ayarları**:\n   - Görüntü ayarlarını önayarla yapın ve \"Benim tercihlerimi kullan\" seçeneğini işaretleyin. Alt taraftaki çubuğu en sola alarak \"Performans Modu\"na getirin ve \"Uygula\" butonuna basın.\n   - 3D Ayarlarının Yönetilmesi > Genel Ayarlar > \"Tercih Edilen Grafik İşlemcisi\" kısmında \"Yüksek Performanslı Nvidia İşlemcisi\" seçeneğini seçin.\n   - Güç Yönetimi Modu'nu \"Maksimum Performansı Tercih Et\" olarak ayarlayın.\n\n4. **Nvidia GeForce Experience Ayarları**:\n   - Uygulamaya giriş yaparak \"Ayarlar > Oyunlar\" kısmında \"OPTİMUM OYNANABİLİRLİK AYARLARI\" altında \"Yeni eklenen oyunları otomatik olarak optimize et\" seçeneğinin tikini kaldırın.\n   - \"Whisper Mode\" ve \"Battery Boost\" seçeneklerini kapatın. Son olarak cihazınızı yeniden başlatın.\n\n5. **RAM ve Disk Kontrolü**: Bilgisayarınızda yeterli RAM ve disk kapasitesine sahip olduğunuzdan emin olun. RAM veya disk arızaları FPS düşüşüne neden olabilir.\n\n6. **Termal Sorunlar**: Bilgisayarınızın termal macununda kuruluk veya fanlarda tıkanıklık gibi durumlar varsa, bu da ısınma sorunlarına yol açabilir. Bu durumda, bilgisayarınızın servise ulaşması gerekebilir.\n\n7. **Arka Planda Çalışan Uygulamalar**: Bilgisayarınız açıldığında otomatik başlayan gereksiz uygulamaları görev yöneticisinden durdurun.\n\nBu adımları izleyerek FPS sorunlarınızı çözebilirsiniz. Eğer sorun devam ederse, bilgisayarınızı teknik servise ulaştırmanızı öneririm. Servis hakkında detaylı bilgi için [Monster Teknik Servis](https://www.monsternotebook.com.tr/teknik-servis/) adresini ziyaret edebilirsiniz.",
+        "response_time": 10.835716962814331,
+        "sources": [
+          "performans_sorunlar.json",
+          "kurulum_ve_yazlm_sorunlar.json",
+          "donanim_klavye_touchpad.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_mentese_kasa.json"
+        ],
+        "documents_used": 8,
+        "tokens": 6136,
+        "prompt_tokens": 5430,
+        "completion_tokens": 706,
+        "cost": 0.0012381,
+        "success": true
+      }
+    },
+    {
+      "question_id": 9,
+      "question": "Bilgisayarım açılmıyor. Güç düğmesine basıyorum ama hiçbir tepki vermiyor ne \nyapmalıyım?",
+      "expected_answer": "Öncelikle Bilgisayarınızın adaptörünün prize takılı olup olmadığını ve bilgisayardan \nadaptörünüzün güç alıp almadığını, Adaptör güç ışığına bakarak kontrol ediniz. Bilgisayarın \nşebekeden güç aldığını gösteren ışıklar yanmıyorsa, adaptörünüzde bir arıza olduğu anlamına \ngelir. Bu durumda bilgisayarınızı ve adaptörünüzü teknik servisimize ücretsiz kargo ile \nulaştırabilirsiniz. \n Adaptör güç ışığı yanıyorsa aşağıda ki adımları takip edebilirsiniz;",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın açılmaması durumu, birkaç farklı nedenden kaynaklanabilir. Aşağıdaki adımları izleyerek sorunu çözmeye çalışabilirsiniz:\n\n1. **Güç Kaynağını Kontrol Edin**: Bilgisayarınızın güç kablosunun düzgün bir şekilde takılı olduğundan emin olun. Farklı bir prizde deneyin.\n\n2. **Bataryayı Kontrol Edin**: Eğer bilgisayarınızın bataryası çıkarılabiliyorsa, bataryayı çıkarın ve sadece güç adaptörü ile bilgisayarı açmayı deneyin.\n\n3. **Güç Düğmesine Uzun Süre Basın**: Bilgisayarın güç düğmesine 10-15 saniye boyunca basılı tutun. Bu, bazı durumlarda bilgisayarın sıfırlanmasına yardımcı olabilir.\n\n4. **Donanım Bağlantılarını Kontrol Edin**: Bilgisayarın içindeki donanım bileşenlerinin (RAM, SSD, vb.) düzgün bir şekilde yerleştirildiğinden emin olun. Eğer bu konuda deneyiminiz yoksa, bu adımı atlayabilirsiniz.\n\n5. **Aşırı Isınma Kontrolü**: Bilgisayarın aşırı ısındığını düşünüyorsanız, soğuması için bir süre bekleyin ve ardından tekrar açmayı deneyin.\n\n6. **Teknik Servis**: Eğer yukarıdaki adımlar sorunu çözmezse, bilgisayarınızın teknik servise ulaşması gerekebilir. Detaylı bilgi için [teknik servis sayfamızı](https://www.monsternotebook.com.tr/teknik-servis/) ziyaret edebilirsiniz.\n\nBu durum teknik servisi gerektiriyor. Servis seçeneklerini ister misiniz? \n\nKaynaklar: \n- monster_support_categorized/donanm_guc_batarya.json\n- monster_support_categorized/genel_bilgilendirmeler_diger.json",
+        "response_time": 7.138275861740112,
+        "sources": [
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_guc_batarya.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2982,
+        "prompt_tokens": 2568,
+        "completion_tokens": 414,
+        "cost": 0.0006336,
+        "success": true
+      }
+    },
+    {
+      "question_id": 10,
+      "question": "Bilgisayarınızı adaptörden çekin. Güç düğmesine parmağınızı yaklaşık 40 saniye basılı \ntutun. Ardından adaptörü prize tekrar takın ve güç düğmesine basın, açılmaması durumunda \naşağıdaki adımları tekrarlayınız;  \n2- Adaptörü tekrar çıkartalım. Bilgisayarın güç tuşuna ve FN + B tuşuna aynı anda 30 saniye \nbasılı tutalım. 30 saniye bittikten sonra bilgisayarın açılmaması halinde üçüncü adımı \ndeneyelim \n3- Bu kez güç tuşu (açma/kapama tuşu), ve FN + D tuşuna aynı anda basarak üçüncü kez \nbilgisayarı test edelim.  \nProbleminiz bu işlemlerden sonra hiçbir tepki vermiyorsa, ürünü teknik servisimize, bir arıza \nnotu ile birlikte Yurt içi kargo aracılığı ile ücretsiz şekilde gönderebilirsiniz. Bilgisayarınız \nulaştığında servis kaydı otomatik olarak oluşacak ve tarafınıza servis numaranızı ve servis \ntakip linkini içeren bir SMS gelecektir. \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/ \n \n6- Güç düğmesine bastığımda bilgisayarım açılmıyor. Güç ışığı yanıyor. Fan sesi geliyor \nfakat görüntü gelmiyor, Nasıl çözebilirim?",
+      "expected_answer": "Bilgisayarınızın varsa harici ekranlar ile bağlantısını kesin. Ardından adaptörü prizden \nçekin.  Güç düğmesine basılı tutarak, fanlardan gelen ses kesilinceye kadar basılı tutalım. \nCihaz kapandıktan sonra, Bataryanız sökülebilir ise bataryanızı çıkartın. Entegre ise \nçıkartmadan aşağıda ki işlemlere devam edelim.  \nGenel / Public / Kişisel Veri İçermez \n8 \n \n1.Kapalı ve prize takılı olmayan bilgisayarınızın güç düğmesine 40 saniye kadar basılı tutun. \n2.Ardından prize takıp bir kez güç tuşuna basarak ekranı kontrol edelim.  \nGörüntünüz hala gelmiyor, sorun devam ediyorsa, cihazınızın paneli, grafik kartı veya panel \nbağlantı kablosunda bir sorun olabilir. Cihazınızı bu iki adımlı işlemin işe yaramaması \ndurumunda servisimize ulaştırmanızı rica ederiz. \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın güç düğmesine bastığınızda açılmıyor, ancak güç ışığı yanıyor ve fan sesi geliyorsa, aşağıdaki adımları izleyerek sorunu çözmeyi deneyebilirsiniz:\n\n1. **Harici Ekranı Kontrol Edin**: Eğer harici bir ekran bağlıysa, bağlantısını kesin.\n\n2. **Adaptörü Çekin**: Bilgisayarın adaptörünü prizden çıkarın.\n\n3. **Güç Düğmesine Basılı Tutun**: Güç düğmesine basılı tutarak fan sesinin kesilmesini bekleyin. Bu işlem, bilgisayarın tamamen kapanmasını sağlar.\n\n4. **Bataryayı Kontrol Edin**: Eğer bataryanız sökülebiliyorsa, bataryayı çıkarın. Eğer entegre bir batarya varsa, bu adımı atlayın.\n\n5. **Güç Düğmesine Tekrar Basın**: Bilgisayar kapalı ve prize takılı değilken, güç düğmesine 40 saniye kadar basılı tutun.\n\n6. **Adaptörü Takın**: Adaptörü tekrar prize takın ve bir kez güç düğmesine basarak ekranı kontrol edin.\n\nEğer yukarıdaki adımları uyguladıktan sonra hala görüntü alamıyorsanız, sorun cihazınızın paneli, grafik kartı veya panel bağlantı kablosunda olabilir. Bu durumda, bilgisayarınızı teknik servise göndermeniz gerekecektir. Ürünü, bir arıza notu ile birlikte Yurt içi kargo aracılığıyla ücretsiz olarak gönderebilirsiniz. Bilgisayarınız ulaştığında servis kaydı otomatik olarak oluşacak ve tarafınıza servis numaranızı ve servis takip linkini içeren bir SMS gelecektir.\n\nServis hakkında detaylı bilgi için: [Teknik Servis](https://www.monsternotebook.com.tr/teknik-servis/)\n\nBu yanıt, \"Güç düğmesine bastığımda bilgisayarım açılmıyor. Güç ışığı yanıyor. Fan sesi geliyor fakat görüntü gelmiyor, Nasıl çözebilirim?\" sorusuna yönelik olarak hazırlanmıştır.",
+        "response_time": 18.999841690063477,
+        "sources": [
+          "donanim_guc_batarya.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json",
+          "performans_sorunlar.json",
+          "donanim_ekran_panel.json",
+          "genel_bilgilendirmeler_diger.json"
+        ],
+        "documents_used": 8,
+        "tokens": 5298,
+        "prompt_tokens": 4844,
+        "completion_tokens": 454,
+        "cost": 0.0009989999999999999,
+        "success": true
+      }
+    },
+    {
+      "question_id": 11,
+      "question": "Açma tuşuna bastıktan bir süre sonra bilgisayar kendini kapatıyor. Ne yapmalıyım?",
+      "expected_answer": "Bilgisayarınız adaptörü takılı olmadığı durumda bu sorunu yaşıyorsanız. Problem \nbataryanızdan kaynaklı olabilir.  Adaptör takılı olmasına rağmen bu problem yaşanıyorsa \naşağıda çözüm adımlarını uygulayabilirsiniz. \n1.Açılmayan bilgisayarınızın adaptörünü prizden çekin. Ardından bataryası sökülebilir bir \nmodel ise bataryanızı çıkartın. Entegre ise batarya takılı olarak devam edin. 40 saniye kadar \ngüç düğmesine basılı tutun. Ardından elinizi çekin. \n2.Ardından prize takıp bir kez güç tuşuna basarak bilgisayarın çalışıp, çalışmadığını kontrol \nedelim.  \nÇalışmaması durumunda bilgisayarınızı servisimize ulaştırmanızı rica ederiz. \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Merhaba, \n\nKlavye tuşlarına bastığınızda bip sesleri alıyorsanız, bu durum genellikle \"Filtre Tuşları\" özelliğinin aktif olmasından kaynaklanabilir. Aşağıdaki adımları izleyerek bu durumu düzeltebilirsiniz:\n\n1. Başlat menüsünün arama çubuğuna \"filtre Tuşları'nı başlatmak için kısayol tuşuna izin ver\" yazın ve Enter tuşuna basın.\n2. Klavye Ayar menüsünde bulunan \"kısa veya tekrarlanan tuş vuruşlarını yoksay ve klavye yineleme hızını değiştir\" seçeneğini Kapalı konuma getirin.\n\nBu adımları takip ettikten sonra sorun devam ederse, daha fazla yardım için teknik servise başvurmanızı öneririm. \n\nTeknik servis süreci hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz. \n\nBaşka bir konuda yardımcı olabilir miyim?",
+        "response_time": 3.9987618923187256,
+        "sources": [
+          "donanim_klavye_touchpad.json",
+          "donanim_guc_batarya.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_mentese_kasa.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2832,
+        "prompt_tokens": 2603,
+        "completion_tokens": 229,
+        "cost": 0.00052785,
+        "success": true
+      }
+    },
+    {
+      "question_id": 12,
+      "question": "Bilgisayarımı Şarja takınca kendini kapatıyor.  Ne yapmalıyım?",
+      "expected_answer": "Bilgisayarınız şarja taktığınızda güç kesiyor ve kapanıyorsa, cihazınızı çözüm için \nteknik servisimize ulaştırmanız gerekmektedir. Serviste yapılacak olan kısa ve basit bir işlem \nile sorununuz çözüme kavuşturulacaktır. Sorununuz ve iletişim bilgilerinize dair kısa bir not \nyazıp, bilgisayarınızı adaptörü ile birlikte güvenli bir şekilde kutulayıp, ürününüzü kargo veya \ndoğrudan kendiniz getirerek servisimize ulaştırabilirsiniz.   \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın şarja takınca kendini kapatması, bataryada bir arıza veya kullanım süresine bağlı olarak pil ömrünün tükenmesi durumunu gösterebilir. Bu sorunu çözmek için aşağıdaki adımları izleyebilirsiniz:\n\n1. Bilgisayarınızı kapatın ve şarj adaptörünü çıkarın.\n2. Bilgisayarınızı açın ve BIOS'a girmeyi deneyin. (Genellikle açılışta F2 veya DEL tuşuna basarak erişebilirsiniz.)\n3. BIOS'ta batarya durumu ile ilgili bir bilgi varsa kontrol edin.\n4. Bilgisayarınızı tekrar kapatın ve şarj adaptörünü takın.\n5. Bilgisayarınızı açın ve normal şekilde kullanmaya çalışın.\n6. Eğer sorun devam ediyorsa, bataryanın değiştirilmesi gerekebilir.\n\nEğer yukarıdaki adımlar sorununuzu çözmezse, bilgisayarınızı detaylı bir not ile birlikte teknik servisimize ulaştırmanızı öneririz. \n\nServis süreci hakkında detaylı bilgi için: [Teknik Servis Bilgisi](https://www.monsternotebook.com.tr/teknik-servis/)\n\nBu bilgiler, \"Bilgisayarım Şarjdan çekince kapanıyor. Ne yapmalıyım?\" sorusuna verilen cevaptan alınmıştır.",
+        "response_time": 4.816150665283203,
+        "sources": [
+          "donanim_mentese_kasa.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_guc_batarya.json",
+          "genel_bilgilendirmeler_diger.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2886,
+        "prompt_tokens": 2599,
+        "completion_tokens": 287,
+        "cost": 0.0005620499999999999,
+        "success": true
+      }
+    },
+    {
+      "question_id": 13,
+      "question": "Bilgisayarım Şarjdan çekince kapanıyor. Ne yapmalıyım?",
+      "expected_answer": "Bilgisayarınızın bataryasında bir arıza veya kullanım süresine göre pil ömrünüzde \ntükenme durumu olabilir. Kontrol edilmesi ve gerekli çözüm için bilgisayarınızı detaylı bir not \nile birlikte teknik servisimize ulaştıra bilirisiniz.  \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın kasası masaya koyduğunuzda yamuk duruyorsa, bu durum genellikle fiziksel bir sorun veya montaj hatasından kaynaklanabilir. Bu durumda ürününüzü servisimize ulaştırmanız gerekmektedir. \n\nServis hakkında detaylı bilgi için lütfen şu bağlantıyı ziyaret edin: [Teknik Servis Bilgisi](https://www.monsternotebook.com.tr/teknik-servis/).\n\nBu tür sorunlar için en iyi çözüm, uzman teknisyenler tarafından incelenmesidir. Eğer başka bir sorunuz varsa, yardımcı olmaktan memnuniyet duyarım.",
+        "response_time": 2.565268039703369,
+        "sources": [
+          "donanim_mentese_kasa.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_guc_batarya.json",
+          "donanim_klavye_touchpad.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2680,
+        "prompt_tokens": 2548,
+        "completion_tokens": 132,
+        "cost": 0.00046139999999999994,
+        "success": true
+      }
+    },
+    {
+      "question_id": 14,
+      "question": "Bilgisayarım kapalıyken pilim azalıyor.  Ne yapmalıyım? \nGenel / Public / Kişisel Veri İçermez \n9",
+      "expected_answer": "Bilgisayarınıza takılı olan harici, aksesuar, ekran ve diğer elektronik cihazların \nçalışması gibi durumlar buna sebebiyet verebilir. Ürününüzde güç çeken başka bir elektronik \ncihaz olmaksızın bu sorun yaşanıyorsa, Batarya ve Anakart kontrolü için bilgisayarınızın teknik \nservise gelmesi gerekmektedir.  \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Bilgisayarınız kapalıyken pilin azalması, bazı harici cihazların veya aksesuarların bağlı olmasından kaynaklanabilir. Aşağıdaki adımları izleyerek sorunu çözmeye çalışabilirsiniz:\n\n1. Bilgisayarınıza bağlı olan tüm harici cihazları (örneğin, USB bellekler, harici diskler, ekranlar) çıkarın.\n2. Bilgisayarınızı kapatın ve birkaç dakika bekleyin.\n3. Bilgisayarınızı tekrar açın ve pil durumunu kontrol edin.\n4. Eğer sorun devam ediyorsa, bilgisayarınızda güç çeken başka bir elektronik cihaz olmaksızın bu sorun yaşanıyorsa, Batarya ve Anakart kontrolü için bilgisayarınızın teknik servise gelmesi gerekmektedir.\n\nBu durum teknik servisi gerektiriyor. Servis seçeneklerini ister misiniz? \n\nKaynak: `monster_support_categorized/donanm_guc_batarya.json`",
+        "response_time": 3.2062017917633057,
+        "sources": [
+          "donanim_ekran_panel.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_guc_batarya.json",
+          "donanim_klavye_touchpad.json"
+        ],
+        "documents_used": 8,
+        "tokens": 3063,
+        "prompt_tokens": 2861,
+        "completion_tokens": 202,
+        "cost": 0.00055035,
+        "success": true
+      }
+    },
+    {
+      "question_id": 15,
+      "question": "Pil / Batarya ömrüm çok çabuk bitiyor. Ne yapmalıyım?",
+      "expected_answer": "Oyuncu bilgisayarlarında batarya/Pil ömrü, İş ve diğer amaçlı kullanılan, dizüstü \nbilgisayarlara göre daha kısa olmaktadır. Oyun oynamanız ve benzeri yüksek performanslı \nişlemler yapabilmeniz için gereken yüksek mobil donanımlar, şebekeden daha fazla güce, \ndaha fazla elektriğe ihtiyaç duyarlar. Bataryaların güç ve mah değerlerinin bunu karşılaması \niçin çok daha maliyetli, büyük, ağır bataryalar kullanmak gerekmektedir. Bu durumda Gaming \nDizüstü taşınabilir olan bilgisayarınızın, mobil özelliğini, taşınabilir olmasını etkiler. \nGaming Notebook’ların, pil ömrü modeline göre dengeli güç planında masaüstünde boşta \nbeklerken hesaplandığında ortalama 2 saat ila 2,5 saat arasında değişmektedir. Bu süre işlem \nyaptıkça ve kullanılan donanım oranına göre değişiklik gösterebilmektedir. Örneğin bir filmi \nİntel grafik kartı üzerinden seyretmek ve Nvidia grafik kartı üzerinden seyretmenin arasında \ngüç tüketimi açısından farklar vardır. Genelde HD kalitede bir filmi izlendiğinde pil ömrü yeni \nbir üründe ortalama 1 saate düşebilmekte, daha fazla kullanılmış bir cihazda ise 30-40 \ndakikalara inebilmektedir. Bu durumda arka planda çalışan uygulamalar, filmin kalitesi gibi \nunsurlarda belirleyicidir.  \nBilgisayarınızı performans gerektirmeyen işlemler için Windows güç seçenekleri ve Kontrol \nmerkezi uygulamanızdan tasarruf moduna alabilirsiniz. Bu durumda ürünün performansı \nnormal bir notebook seviyelerine gelecek fakat pil ömrü de artacaktır. Performans gerektiren \nişlemlerin, adaptör ile prize takılı bir şekilde yapılması gerekmektedir.   \nBu bilgileri sonrasında yaptığınız kontrollerde bilgisayarınızın bataryasında bir arıza olduğunu \ndüşünüyorsanız, ürünü teknik servisimize kontrol edilmesi ve sorunun çözülmesi için \nyönlendire bilirisiniz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın batarya ömrünün çabuk bitmesi, genellikle yüksek performans gerektiren işlemlerden kaynaklanmaktadır. Oyuncu bilgisayarları, iş ve diğer amaçlı dizüstü bilgisayarlara göre daha kısa batarya ömrüne sahiptir. Bu durum, kullanılan donanımın yüksek güç tüketiminden kaynaklanmaktadır. \n\nAşağıdaki adımları izleyerek batarya ömrünü uzatmayı deneyebilirsiniz:\n\n1. **Güç Seçeneklerini Kontrol Edin**: Windows güç seçeneklerinden \"Tasarruf Modu\"nu seçin. Bu, bilgisayarınızın performansını normal bir dizüstü bilgisayar seviyesine düşürerek batarya ömrünü artıracaktır.\n   \n2. **Arka Planda Çalışan Uygulamaları Kapatın**: Kullanmadığınız uygulamaları kapatın. Bu, bataryanın daha az enerji harcamasına yardımcı olur.\n\n3. **Ekran Parlaklığını Azaltın**: Ekran parlaklığını düşürmek, bataryanın daha uzun süre dayanmasına yardımcı olabilir.\n\n4. **Performans Gerektiren İşlemleri Adaptör ile Yapın**: Oyun oynamak veya yüksek performans gerektiren işlemler yaparken bilgisayarınızı adaptör ile prize takılı kullanın.\n\n5. **Pil Sağlığını Kontrol Edin**: Bilgisayarınızın bataryasında bir arıza olduğunu düşünüyorsanız, teknik servise başvurun.\n\nEğer bu adımları uyguladıktan sonra bataryanın ömründe bir iyileşme görmüyorsanız, bilgisayarınızı teknik servise ulaştırmanızı öneririm. \n\nServis süreci hakkında detaylı bilgi için: [Teknik Servis Bilgisi](https://www.monsternotebook.com.tr/teknik-servis/)\n\nBu bilgiler, \"Pil / Batarya ömrüm çok çabuk bitiyor. Ne yapmalıyım?\" sorusuna yanıt olarak verilmiştir.",
+        "response_time": 12.200709342956543,
+        "sources": [
+          "donanim_guc_batarya.json",
+          "donanim_mentese_kasa.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_ekran_panel.json"
+        ],
+        "documents_used": 8,
+        "tokens": 3321,
+        "prompt_tokens": 2885,
+        "completion_tokens": 436,
+        "cost": 0.0006943499999999999,
+        "success": true
+      }
+    },
+    {
+      "question_id": 16,
+      "question": "Bilgisayarımın bataryası kaç Mah?",
+      "expected_answer": "Bu özellik bilgisayarınızın sahip olduğu modele ve yeni seri ürünlerde değişiklik \ngösterebilir. Web sitemizde her ürüne yer verilen sayfada mutlaka batarya Mah değerleriniz \nyer almaktadır.  İster aşağıda ki linkten, isterseniz web sitemizin arama bölümüne modelinizi \nyazarak ilgili sayfaya ulaşabilir ve kontrol edebilirsiniz. \nhttps://www.monsternotebook.com.tr/laptop/ \n \nGenel / Public / Kişisel Veri İçermez \n10",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın bataryası, sahip olduğu modele ve yeni seri ürünlerde değişiklik gösterebilir. Batarya kapasitesi hakkında kesin bilgi almak için aşağıdaki adımları izleyebilirsiniz:\n\n1. Web sitemizde her ürüne yer verilen sayfada batarya Mah değerlerinizi kontrol edebilirsiniz.\n2. Aşağıdaki linkten veya web sitemizin arama bölümüne modelinizi yazarak ilgili sayfaya ulaşabilirsiniz:  \n   [Monster Notebook Ürün Sayfası](https://www.monsternotebook.com.tr/laptop/)\n\nBu bilgiler, bilgisayarınızın batarya kapasitesini öğrenmenize yardımcı olacaktır. \n\nKaynak: \n- Bilgisayarımın bataryası kaç Mah? (Belge)",
+        "response_time": 4.678544044494629,
+        "sources": [
+          "donanim_guc_batarya.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_mentese_kasa.json",
+          "donanim_klavye_touchpad.json"
+        ],
+        "documents_used": 8,
+        "tokens": 3210,
+        "prompt_tokens": 3053,
+        "completion_tokens": 157,
+        "cost": 0.00055215,
+        "success": true
+      }
+    },
+    {
+      "question_id": 17,
+      "question": "Adaptörümü Unuttum. Bilgisayarımı daha düşük uyumlu bir adaptörle geçici olarak \nkullansam ne gibi sorunlar yaşarım?",
+      "expected_answer": "Bilgisayarınızın sağlıklı ve tam performans çalışması için kendi adaptörünüzü \nkullanmanız gerekmektedir.  Düşük değerlere sahip, uyumlu bir adaptörle bilgisayarınızın \nkullanımı riskli olacaktır.",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızı daha düşük uyumlu bir adaptörle geçici olarak kullanmanız, bazı sorunlara yol açabilir. Bilgisayarınızın sağlıklı ve tam performans çalışması için kendi adaptörünüzü kullanmanız gerekmektedir. Düşük değerlere sahip, uyumlu bir adaptörle bilgisayarınızın kullanımı riskli olacaktır. \n\nBu durum aşağıdaki sorunlara neden olabilir:\n\n- **Yetersiz Güç:** Düşük uyumlu bir adaptör, bilgisayarınıza yeterli güç sağlamayabilir. Bu, bilgisayarın performansını olumsuz etkileyebilir.\n- **Aşırı Isınma:** Uygun olmayan bir adaptör kullanımı, adaptörün aşırı ısınmasına neden olabilir. Bu durum, hem adaptör hem de bilgisayar için tehlikeli olabilir.\n- **Donanım Hasarı:** Uzun süreli düşük güçle çalışma, bilgisayarın donanım bileşenlerine zarar verebilir.\n- **Pil Sorunları:** Düşük uyumlu bir adaptör, bataryanın düzgün şarj olmasını engelleyebilir ve bataryanın ömrünü kısaltabilir.\n\nBu nedenle, mümkünse kendi adaptörünüzü kullanmanız önemlidir. Eğer adaptörünüzü bulamıyorsanız, en kısa sürede uygun bir adaptör temin etmenizi öneririm. \n\nDaha fazla bilgi veya destek için yardımcı olmaktan memnuniyet duyarım.",
+        "response_time": 16.886125564575195,
+        "sources": [
+          "donanim_guc_batarya.json"
+        ],
+        "documents_used": 8,
+        "tokens": 3177,
+        "prompt_tokens": 2869,
+        "completion_tokens": 308,
+        "cost": 0.00061515,
+        "success": true
+      }
+    },
+    {
+      "question_id": 18,
+      "question": "Adaptörümün kablosu soyuldu ne yapmalıyım?",
+      "expected_answer": "Adaptör kablonuzun koruyucu yüzeyinde ki aşınmalar seviyesine göre bazı riskler \nbarındırabilir. İçerisinde ki iletken alaşım ortaya çıkmış, görünür ya da sızdırabilir \ndurumdaysa, Teknik Servise başvurmanızı tavsiye ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Adaptör kablonuzun koruyucu yüzeyinde aşınmalar varsa, bu durum bazı riskler barındırabilir. İçerisindeki iletken alaşım görünür hale gelmiş veya sızdırıyorsa, aşağıdaki adımları takip etmenizi öneririm:\n\n1. **Adaptörü kullanmayı durdurun:** Kablo soyulmuşsa, adaptörü hemen kullanmayı bırakın.\n2. **Görsel kontrol yapın:** Kablonun iç kısmında görünür bir hasar olup olmadığını kontrol edin.\n3. **Teknik Servise başvurun:** Eğer kablo hasar görmüşse, teknik servise başvurmanız gerekmektedir. \n4. **Servis süreci hakkında bilgi alın:** Servis süreci hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz.\n\nBu adımları takip ederek güvenliğinizi sağlayabilirsiniz. Başka bir konuda yardımcı olmamı ister misiniz? \n\nKaynak: Adaptör ile ilgili bilgiler, Monster Notebook teknik destek belgelerinden alınmıştır.",
+        "response_time": 4.288313150405884,
+        "sources": [
+          "donanim_guc_batarya.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json",
+          "genel_bilgilendirmeler_diger.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2754,
+        "prompt_tokens": 2520,
+        "completion_tokens": 234,
+        "cost": 0.0005184,
+        "success": true
+      }
+    },
+    {
+      "question_id": 19,
+      "question": "Bilgisayarım şarj olmuyor nasıl çözebilirim?",
+      "expected_answer": "Bilgisayarınız prize takılı olduğu halde, şarj olmuyor ve bataryanızdan kullanım \nyapılıyorsa, bilgisayarınızı adaptörü ile birlikte teknik servisimize ulaştırmanızı rica ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın şarj olmaması durumu, genellikle adaptör veya batarya ile ilgili bir sorun olduğunu gösterir. Aşağıdaki adımları izleyerek sorunu çözmeye çalışabilirsiniz:\n\n1. **Adaptörü Kontrol Edin**: Adaptörün prize düzgün bir şekilde takılı olduğundan emin olun. Farklı bir prizde deneyin.\n2. **Kabloyu Kontrol Edin**: Adaptör kablosunun hasar görmediğinden emin olun. Kabloda herhangi bir kesik veya ezilme var mı kontrol edin.\n3. **Bataryayı Kontrol Edin**: Bilgisayarınızın bataryasının düzgün bir şekilde yerleştirildiğinden emin olun. Bataryayı çıkarıp tekrar takmayı deneyin.\n4. **Farklı Bir Adaptör Deneyin**: Eğer mümkünse, aynı modelde başka bir adaptör ile deneme yapın.\n5. **Güç Ayarlarını Kontrol Edin**: Bilgisayarınızın güç ayarlarını kontrol edin. Yanlış ayarlar bataryanın şarj olmasını engelleyebilir.\n6. **BIOS Güncellemesi**: Bilgisayarınızın BIOS'unu güncelleyerek sorunu çözmeyi deneyin.\n7. **Donanım Sorunları**: Eğer yukarıdaki adımlar işe yaramazsa, bilgisayarınızda bir donanım sorunu olabilir.\n\nEğer bu adımlar sorununuzu çözmezse, bilgisayarınızı adaptörü ile birlikte teknik servisimize ulaştırmanızı öneririz. Servis süreci hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz.\n\nKaynaklar:\n- Bilgisayarım şarj olmuyor nasıl çözebilirim?",
+        "response_time": 6.455531597137451,
+        "sources": [
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_guc_batarya.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json",
+          "donanim_ekran_panel.json",
+          "donanim_usb_portlar.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2833,
+        "prompt_tokens": 2448,
+        "completion_tokens": 385,
+        "cost": 0.0005981999999999999,
+        "success": true
+      }
+    },
+    {
+      "question_id": 20,
+      "question": "Bilgisayarımın klavye aydınlatması çalışmıyor nasıl çözebilirim?",
+      "expected_answer": "Bilgisayarınızda Kontrol Merkezi uygulamanız yüklü değil ise yükleyerek kontrol \nmerkezi içerisinde ki ayarları kontrol ediniz. Klavye aydınlatmanız, sürümünüze göre \ndeğişiklik göstermek ile beraber BİOS menüsü üzerinden açılıp, kapanabilir. Eğer BİOS \nüzerinde bir ayar değişikliği veya güncelleme yapılmadığı halde Klavye aydınlatması \nçalışmıyorsa, problemin kaynağı teknik olabilir. Bu durumda cihazınızı servisimize \nulaştırmanızı rica ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Bilgisayarınızın klavye aydınlatması çalışmıyorsa, aşağıdaki adımları izleyerek sorunu çözmeyi deneyebilirsiniz:\n\n1. **Klavye Aydınlatma Kısayolunu Kontrol Edin**: Klavye üzerinde genellikle aydınlatmayı açıp kapatmak için bir kısayol tuşu bulunur. Bu tuş genellikle \"Fn\" tuşu ile birlikte kullanılır. Aydınlatmayı açmak için bu tuş kombinasyonunu deneyin.\n\n2. **Aydınlatma Ayarlarını Kontrol Edin**: \n   - Başlat menüsüne gidin ve \"Ayarlar\"ı açın.\n   - \"Cihazlar\" bölümüne tıklayın.\n   - \"Klavye\" ayarlarını kontrol edin ve aydınlatma ile ilgili seçenekleri gözden geçirin.\n\n3. **Sürücü Güncellemelerini Kontrol Edin**: \n   - Aygıt Yöneticisi'ni açın.\n   - Klavye bölümünü genişletin ve klavye sürücüsünü güncellemeyi deneyin.\n\n4. **Bilgisayarı Yeniden Başlatın**: Bazen basit bir yeniden başlatma, yazılım sorunlarını çözebilir.\n\n5. **Donanım Sorunlarını Kontrol Edin**: Eğer yukarıdaki adımlar işe yaramazsa, klavye donanımında bir sorun olabilir. Bu durumda, bilgisayarınızı teknik servise ulaştırmanız gerekebilir.\n\nEğer sorun devam ederse, bilgisayarınızı detaylı bir not ile birlikte teknik servisimize ulaştırmanızı öneririm. Servis süreci hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz.\n\nKaynak: monster_support_categorized/donanm_klavye_touchpad.json",
+        "response_time": 6.2350358963012695,
+        "sources": [
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_guc_batarya.json",
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2886,
+        "prompt_tokens": 2481,
+        "completion_tokens": 405,
+        "cost": 0.00061515,
+        "success": true
+      }
+    },
+    {
+      "question_id": 21,
+      "question": "Klavye aydınlatmam sadece tek renk yanıyor, otomatik geçiş yapmıyor, yardımcı olur \nmusunuz?",
+      "expected_answer": "Control Center 3.0 destekli notebook modellerimizde, Tek renk desteği bulunmakta \nve süreli, otomatik geçiş özelliği bulunmamaktadır.  Bazı harici uygulamalar ile bu özellik \nedinebilmektedir. Fakat bu harici uygulamaların güvenilirliği bilinmediği için tarafımızdan \ntavsiye edilmemektedir. \nGenel / Public / Kişisel Veri İçermez \n11",
+      "json_rag_result": {
+        "answer": "Klavye aydınlatmanızın sadece tek renk yanması ve otomatik geçiş yapmaması durumu için aşağıdaki adımları izleyebilirsiniz:\n\n1. **Klavye Aydınlatma Yazılımını Kontrol Edin**: Bilgisayarınızda klavye aydınlatmasını kontrol eden bir yazılım varsa, bu yazılımı açın ve ayarları kontrol edin. Aydınlatma efektlerinin doğru ayarlandığından emin olun.\n\n2. **Sürücü Güncellemelerini Kontrol Edin**: Klavye sürücülerinizin güncel olup olmadığını kontrol edin. Gerekirse, Monster Notebook'un resmi web sitesinden en son sürücüleri indirip yükleyin.\n\n3. **Klavye Kısayollarını Deneyin**: Klavye aydınlatmasını değiştirmek için kullanılan kısayol tuşlarını deneyin. Genellikle bu tuşlar, \"Fn\" tuşu ile birlikte belirli bir F tuşuna basarak çalışır.\n\n4. **Bilgisayarı Yeniden Başlatın**: Bazen basit bir yeniden başlatma, yazılımsal sorunları çözebilir.\n\n5. **Fabrika Ayarlarına Dönüş**: Eğer yukarıdaki adımlar işe yaramazsa, klavye ayarlarını fabrika ayarlarına döndürmeyi deneyin. Bu işlem, aydınlatma ayarlarını sıfırlayacaktır.\n\nEğer bu adımlar sorununuzu çözmezse, ürününüzü teknik servise ulaştırmanızı öneririm. Servis hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz.\n\nKaynaklar: \n- monster_support_categorized/donanm_klavye_touchpad.json\n- monster_support_categorized/genel_bilgilendirmeler_diger.json",
+        "response_time": 8.706038475036621,
+        "sources": [
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json",
+          "genel_bilgilendirmeler_diger.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2939,
+        "prompt_tokens": 2533,
+        "completion_tokens": 406,
+        "cost": 0.00062355,
+        "success": true
+      }
+    },
+    {
+      "question_id": 22,
+      "question": "Klavye tuşlarımda renk soyulması var. Ne yapabilirim?",
+      "expected_answer": "Ürününüzü teknik servisimize bir not ile birlikte ulaştırabilirsiniz. Diğer bir alternatif \nolarak, Soyulan tuşların fotoğrafları, cihazın hangi tarihte satın alındığını gösteren Fatura, \nirsaliye vb. belge ile destek@monsternotebook.com adresine talebinizi mail atabilirsiniz. \nTalebinize hafta sonları haricinde 24 saat içerisinde dönüş yapılacaktır. Gelen ve Spam \nkutunuzu bu süre zarfında kontrol etmenizi tavsiye ederiz.",
+      "json_rag_result": {
+        "answer": "Klavye tuşlarınızda renk soyulması varsa, aşağıdaki adımları izleyebilirsiniz:\n\n1. Ürününüzü teknik servisimize ulaştırabilirsiniz. \n2. Alternatif olarak, soyulan tuşların fotoğraflarını çekin.\n3. Cihazın hangi tarihte satın alındığını gösteren fatura, irsaliye vb. belgeleri hazırlayın.\n4. Bu belgelerle birlikte talebinizi destek@monsternotebook.com adresine e-posta ile gönderin.\n5. Talebinize hafta sonları haricinde 24 saat içerisinde dönüş yapılacaktır. \n6. Gelen ve Spam kutunuzu bu süre zarfında kontrol etmenizi tavsiye ederiz.\n\nBu bilgiler, \"Klavye tuşlarımda renk soyulması var. Ne yapabilirim?\" sorusuna yönelik olarak sağlanmıştır. \n\nEğer başka bir konuda yardıma ihtiyacınız olursa, lütfen belirtin.",
+        "response_time": 6.339415073394775,
+        "sources": [
+          "donanim_klavye_touchpad.json",
+          "donanim_guc_batarya.json",
+          "donanim_mentese_kasa.json",
+          "genel_bilgilendirmeler_diger.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2740,
+        "prompt_tokens": 2532,
+        "completion_tokens": 208,
+        "cost": 0.0005046,
+        "success": true
+      }
+    },
+    {
+      "question_id": 23,
+      "question": "Klavye’de bazı tuşlar ara ara basmıyor. Yardımcı olur musunuz?",
+      "expected_answer": "Soruna dair bir video çekip, bilgisayarınızın masaüstüne ekleminizi ve yanına detaylı \nbir bilgi notu ekleyerek ürünü servisimize ulaştırmanızı rica ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Klavye’de bazı tuşların ara ara basmaması sorunu için aşağıdaki adımları izleyebilirsiniz:\n\n1. **Klavye Bağlantısını Kontrol Edin**: Klavyenizin bağlantısının sağlam olduğundan emin olun. Eğer kablolu bir klavye kullanıyorsanız, kablonun hasar görmediğini kontrol edin. Kablosuz bir klavye kullanıyorsanız, pillerin dolu olduğundan emin olun.\n\n2. **Temizlik Yapın**: Klavyenizin tuşlarının altında birikmiş toz veya kir, tuşların çalışmasını engelleyebilir. Klavyenizi nazikçe temizleyin. Tuşları çıkarmadan önce kullanım kılavuzunu kontrol edin.\n\n3. **Sürücü Güncellemelerini Kontrol Edin**: Başlat menüsünde \"Aygıt Yöneticisi\"ni aratın ve klavye sürücünüzü güncelleyip güncelleyemeyeceğinizi kontrol edin.\n\n4. **Filtre Tuşlarını Kontrol Edin**: Başlat menüsü arama çubuğuna \"filtre Tuşları'nı başlatmak için kısayol tuşuna izin ver\" yazarak Enter tuşuna basın. Klavye Ayar menüsünde bulunan \"kısa veya tekrarlanan tuş vuruşlarını yoksay ve klavye yineleme hızını değiştir\" seçeneğini Kapalı konuma getirin.\n\n5. **Fiziksel Hasar Kontrolü**: Klavyenizde fiziksel bir hasar veya sıvı teması olup olmadığını kontrol edin. Eğer varsa, bu durum klavye arızasına neden olabilir.\n\n6. **Teknik Servis**: Eğer yukarıdaki adımlar sorununuzu çözmezse, klavyenizin değiştirilmiş olmasına rağmen aynı tuşlarda basmama problemi yaşıyorsanız, bilgisayarınızı teknik servise ulaştırmanız gerekebilir. Sorunun kaynağı, klavye, anakart bağlantısı veya diğer bileşenlerden kaynaklanıyor olabilir.\n\nSorununuzun çözümü için yukarıdaki adımları takip edebilirsiniz. Eğer sorun devam ederse, teknik servisimize başvurmanızı öneririm. Servis süreci hakkında detaylı bilgi için [buraya](https://www.monsternotebook.com.tr/teknik-servis/) göz atabilirsiniz.\n\nKaynaklar:\n- monster_support_categorized/donanm_klavye_touchpad.json\n- monster_support_categorized/genel_bilgilendirmeler_diger.json",
+        "response_time": 10.129043340682983,
+        "sources": [
+          "donanim_klavye_touchpad.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_mentese_kasa.json",
+          "donanim_guc_batarya.json"
+        ],
+        "documents_used": 8,
+        "tokens": 3150,
+        "prompt_tokens": 2592,
+        "completion_tokens": 558,
+        "cost": 0.0007236,
+        "success": true
+      }
+    },
+    {
+      "question_id": 24,
+      "question": "Klavyem Çalışmıyor Ne yapmalıyım?",
+      "expected_answer": "Statik alma işlemleri uygulayarak, klavyenizin çalışıp çalışmadığını deneyebilirsiniz. \nBilgisayar kapalı durumdayken adaptörü prizden çekin. Bataryanız entegre değilse \nbataryanızı da çıkarabilirsiniz. Sonrasında 40 saniye güç tuşuna basılı tutunuz. Bu işlemin \nardından adaptörü takın ve bilgisayarın açma tuşuna basarak tekrar çalıştırın. Bu işlem \nsonrasında klavyeniz hala çalışmıyorsa ürünü servisimize ulaştırmanızı rica ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/",
+      "json_rag_result": {
+        "answer": "Klavye tuşlarımda renk soyulması var. Ne yapabilirim?\n\nCEVAP: Ürününüzü teknik servisimize bir not ile birlikte ulaştırabilirsiniz. Diğer bir alternatif olarak, soyulan tuşların fotoğrafları, cihazın hangi tarihte satın alındığını gösteren fatura, irsaliye vb. belge ile destek@monsternotebook.com adresine talebinizi mail atabilirsiniz. Talebinize hafta sonları haricinde 24 saat içerisinde dönüş yapılacaktır. Gelen ve Spam kutunuzu bu süre zarfında kontrol etmenizi tavsiye ederiz.\n\nKaynak: Monster Notebook teknik destek belgeleri.",
+        "response_time": 5.729780435562134,
+        "sources": [
+          "donanim_klavye_touchpad.json",
+          "donanim_mentese_kasa.json",
+          "genel_bilgilendirmeler_diger.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2635,
+        "prompt_tokens": 2492,
+        "completion_tokens": 143,
+        "cost": 0.0004596,
+        "success": true
+      }
+    },
+    {
+      "question_id": 25,
+      "question": "Klavyem 6 ay önce teknik serviste değiştirildi fakat yine aynı tuşlar basmıyor?",
+      "expected_answer": "Bilgisayarınızda fiziksel bir hasar veya sıvı teması gibi bir durum yoksa, yapılan klavye \ndeğişikliğine rağmen, Aynı tuşlarda basmama gibi bir problem yaşıyorsanız. Bunun sebebi, \ntekrar klavyeniz olabileceği gibi, klavye ve anakart bağlantısında ki bir arızadan, BİOS sürümü \nveya pilinden, anakarttan ya da statiklenmeden kaynaklanıyor olabilir.",
+      "json_rag_result": {
+        "answer": "Klavye tuşlarına bastığınızda bip sesleri alıyorsanız, bu durum genellikle \"Filtre Tuşları\" özelliğinin aktif olmasından kaynaklanabilir. Aşağıdaki adımları izleyerek bu durumu düzeltebilirsiniz:\n\n1. Başlat menüsü arama çubuğuna \"filtre Tuşları'nı başlatmak için kısayol tuşuna izin ver\" yazın ve Enter tuşuna basın.\n2. Klavye Ayar menüsünde bulunan \"kısa veya tekrarlanan tuş vuruşlarını yoksay ve klavye yineleme hızını değiştir\" seçeneğini Kapalı konuma getirin.\n\nBu adımları uyguladıktan sonra sorununuzun çözülüp çözülmediğini kontrol edin. Eğer sorun devam ederse, daha fazla yardım almak için teknik servise başvurmanızı öneririm.\n\nKaynak: monster_support_categorized/donanm_klavye_touchpad.json",
+        "response_time": 4.978149175643921,
+        "sources": [
+          "donanim_klavye_touchpad.json",
+          "genel_bilgilendirmeler_diger.json",
+          "donanim_mentese_kasa.json",
+          "donanim_ekran_panel.json"
+        ],
+        "documents_used": 8,
+        "tokens": 2761,
+        "prompt_tokens": 2548,
+        "completion_tokens": 213,
+        "cost": 0.0005099999999999999,
+        "success": true
+      }
+    }
+  ],
+  "current_statistics": {
+    "total_queries": 25,
+    "total_time": 238.63661694526672,
+    "total_tokens": 85111,
+    "total_cost": 0.017067750000000003,
+    "successful_responses": 25,
+    "errors": [],
+    "response_times": [
+      12.810264348983765,
+      4.663238763809204,
+      3.72782564163208,
+      31.871100425720215,
+      14.1083824634552,
+      22.317233324050903,
+      10.951668977737427,
+      10.835716962814331,
+      7.138275861740112,
+      18.999841690063477,
+      3.9987618923187256,
+      4.816150665283203,
+      2.565268039703369,
+      3.2062017917633057,
+      12.200709342956543,
+      4.678544044494629,
+      16.886125564575195,
+      4.288313150405884,
+      6.455531597137451,
+      6.2350358963012695,
+      8.706038475036621,
+      6.339415073394775,
+      10.129043340682983,
+      5.729780435562134,
+      4.978149175643921
+    ]
+  }
+}
