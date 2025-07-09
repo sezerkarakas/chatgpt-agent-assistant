@@ -1,6 +1,10 @@
 from openai import OpenAI
 import json
-client = OpenAI()  # API keyinizi buraya girin
+from dotenv import load_dotenv
+
+load_dotenv()
+client = OpenAI() # API keyinizi buraya girin
+
 
 vector_stores = client.vector_stores.list()
 with open("vector_stores.json", "w") as f:

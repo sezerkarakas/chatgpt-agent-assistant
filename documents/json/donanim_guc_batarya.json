@@ -1,0 +1,118 @@
+[
+  {
+    "soru": "Bilgisayarım açılmıyor. Güç düğmesine basıyorum ama hiçbir tepki vermiyor ne \nyapmalıyım?",
+    "cevap": "Öncelikle Bilgisayarınızın adaptörünün prize takılı olup olmadığını ve bilgisayardan \nadaptörünüzün güç alıp almadığını, Adaptör güç ışığına bakarak kontrol ediniz. Bilgisayarın \nşebekeden güç aldığını gösteren ışıklar yanmıyorsa, adaptörünüzde bir arıza olduğu anlamına \ngelir. Bu durumda bilgisayarınızı ve adaptörünüzü teknik servisimize ücretsiz kargo ile \nulaştırabilirsiniz. \n Adaptör güç ışığı yanıyorsa aşağıda ki adımları takip edebilirsiniz;"
+  },
+  {
+    "soru": "Bilgisayarınızı adaptörden çekin. Güç düğmesine parmağınızı yaklaşık 40 saniye basılı \ntutun. Ardından adaptörü prize tekrar takın ve güç düğmesine basın, açılmaması durumunda \naşağıdaki adımları tekrarlayınız;  \n2- Adaptörü tekrar çıkartalım. Bilgisayarın güç tuşuna ve FN + B tuşuna aynı anda 30 saniye \nbasılı tutalım. 30 saniye bittikten sonra bilgisayarın açılmaması halinde üçüncü adımı \ndeneyelim \n3- Bu kez güç tuşu (açma/kapama tuşu), ve FN + D tuşuna aynı anda basarak üçüncü kez \nbilgisayarı test edelim.  \nProbleminiz bu işlemlerden sonra hiçbir tepki vermiyorsa, ürünü teknik servisimize, bir arıza \nnotu ile birlikte Yurt içi kargo aracılığı ile ücretsiz şekilde gönderebilirsiniz. Bilgisayarınız \nulaştığında servis kaydı otomatik olarak oluşacak ve tarafınıza servis numaranızı ve servis \ntakip linkini içeren bir SMS gelecektir. \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/ \n \n6- Güç düğmesine bastığımda bilgisayarım açılmıyor. Güç ışığı yanıyor. Fan sesi geliyor \nfakat görüntü gelmiyor, Nasıl çözebilirim?",
+    "cevap": "Bilgisayarınızın varsa harici ekranlar ile bağlantısını kesin. Ardından adaptörü prizden \nçekin.  Güç düğmesine basılı tutarak, fanlardan gelen ses kesilinceye kadar basılı tutalım. \nCihaz kapandıktan sonra, Bataryanız sökülebilir ise bataryanızı çıkartın. Entegre ise \nçıkartmadan aşağıda ki işlemlere devam edelim.  \nGenel / Public / Kişisel Veri İçermez \n8 \n \n1.Kapalı ve prize takılı olmayan bilgisayarınızın güç düğmesine 40 saniye kadar basılı tutun. \n2.Ardından prize takıp bir kez güç tuşuna basarak ekranı kontrol edelim.  \nGörüntünüz hala gelmiyor, sorun devam ediyorsa, cihazınızın paneli, grafik kartı veya panel \nbağlantı kablosunda bir sorun olabilir. Cihazınızı bu iki adımlı işlemin işe yaramaması \ndurumunda servisimize ulaştırmanızı rica ederiz. \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarımı Şarja takınca kendini kapatıyor.  Ne yapmalıyım?",
+    "cevap": "Bilgisayarınız şarja taktığınızda güç kesiyor ve kapanıyorsa, cihazınızı çözüm için \nteknik servisimize ulaştırmanız gerekmektedir. Serviste yapılacak olan kısa ve basit bir işlem \nile sorununuz çözüme kavuşturulacaktır. Sorununuz ve iletişim bilgilerinize dair kısa bir not \nyazıp, bilgisayarınızı adaptörü ile birlikte güvenli bir şekilde kutulayıp, ürününüzü kargo veya \ndoğrudan kendiniz getirerek servisimize ulaştırabilirsiniz.   \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarım Şarjdan çekince kapanıyor. Ne yapmalıyım?",
+    "cevap": "Bilgisayarınızın bataryasında bir arıza veya kullanım süresine göre pil ömrünüzde \ntükenme durumu olabilir. Kontrol edilmesi ve gerekli çözüm için bilgisayarınızı detaylı bir not \nile birlikte teknik servisimize ulaştıra bilirisiniz.  \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarım kapalıyken pilim azalıyor.  Ne yapmalıyım? \nGenel / Public / Kişisel Veri İçermez \n9",
+    "cevap": "Bilgisayarınıza takılı olan harici, aksesuar, ekran ve diğer elektronik cihazların \nçalışması gibi durumlar buna sebebiyet verebilir. Ürününüzde güç çeken başka bir elektronik \ncihaz olmaksızın bu sorun yaşanıyorsa, Batarya ve Anakart kontrolü için bilgisayarınızın teknik \nservise gelmesi gerekmektedir.  \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Pil / Batarya ömrüm çok çabuk bitiyor. Ne yapmalıyım?",
+    "cevap": "Oyuncu bilgisayarlarında batarya/Pil ömrü, İş ve diğer amaçlı kullanılan, dizüstü \nbilgisayarlara göre daha kısa olmaktadır. Oyun oynamanız ve benzeri yüksek performanslı \nişlemler yapabilmeniz için gereken yüksek mobil donanımlar, şebekeden daha fazla güce, \ndaha fazla elektriğe ihtiyaç duyarlar. Bataryaların güç ve mah değerlerinin bunu karşılaması \niçin çok daha maliyetli, büyük, ağır bataryalar kullanmak gerekmektedir. Bu durumda Gaming \nDizüstü taşınabilir olan bilgisayarınızın, mobil özelliğini, taşınabilir olmasını etkiler. \nGaming Notebook’ların, pil ömrü modeline göre dengeli güç planında masaüstünde boşta \nbeklerken hesaplandığında ortalama 2 saat ila 2,5 saat arasında değişmektedir. Bu süre işlem \nyaptıkça ve kullanılan donanım oranına göre değişiklik gösterebilmektedir. Örneğin bir filmi \nİntel grafik kartı üzerinden seyretmek ve Nvidia grafik kartı üzerinden seyretmenin arasında \ngüç tüketimi açısından farklar vardır. Genelde HD kalitede bir filmi izlendiğinde pil ömrü yeni \nbir üründe ortalama 1 saate düşebilmekte, daha fazla kullanılmış bir cihazda ise 30-40 \ndakikalara inebilmektedir. Bu durumda arka planda çalışan uygulamalar, filmin kalitesi gibi \nunsurlarda belirleyicidir.  \nBilgisayarınızı performans gerektirmeyen işlemler için Windows güç seçenekleri ve Kontrol \nmerkezi uygulamanızdan tasarruf moduna alabilirsiniz. Bu durumda ürünün performansı \nnormal bir notebook seviyelerine gelecek fakat pil ömrü de artacaktır. Performans gerektiren \nişlemlerin, adaptör ile prize takılı bir şekilde yapılması gerekmektedir.   \nBu bilgileri sonrasında yaptığınız kontrollerde bilgisayarınızın bataryasında bir arıza olduğunu \ndüşünüyorsanız, ürünü teknik servisimize kontrol edilmesi ve sorunun çözülmesi için \nyönlendire bilirisiniz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarımın bataryası kaç Mah?",
+    "cevap": "Bu özellik bilgisayarınızın sahip olduğu modele ve yeni seri ürünlerde değişiklik \ngösterebilir. Web sitemizde her ürüne yer verilen sayfada mutlaka batarya Mah değerleriniz \nyer almaktadır.  İster aşağıda ki linkten, isterseniz web sitemizin arama bölümüne modelinizi \nyazarak ilgili sayfaya ulaşabilir ve kontrol edebilirsiniz. \nhttps://www.monsternotebook.com.tr/laptop/ \n \nGenel / Public / Kişisel Veri İçermez \n10"
+  },
+  {
+    "soru": "Adaptörümü Unuttum. Bilgisayarımı daha düşük uyumlu bir adaptörle geçici olarak \nkullansam ne gibi sorunlar yaşarım?",
+    "cevap": "Bilgisayarınızın sağlıklı ve tam performans çalışması için kendi adaptörünüzü \nkullanmanız gerekmektedir.  Düşük değerlere sahip, uyumlu bir adaptörle bilgisayarınızın \nkullanımı riskli olacaktır."
+  },
+  {
+    "soru": "Adaptörümün kablosu soyuldu ne yapmalıyım?",
+    "cevap": "Adaptör kablonuzun koruyucu yüzeyinde ki aşınmalar seviyesine göre bazı riskler \nbarındırabilir. İçerisinde ki iletken alaşım ortaya çıkmış, görünür ya da sızdırabilir \ndurumdaysa, Teknik Servise başvurmanızı tavsiye ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarım şarj olmuyor nasıl çözebilirim?",
+    "cevap": "Bilgisayarınız prize takılı olduğu halde, şarj olmuyor ve bataryanızdan kullanım \nyapılıyorsa, bilgisayarınızı adaptörü ile birlikte teknik servisimize ulaştırmanızı rica ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarımın adaptöründen cızırtı sesi geliyor. Ne yapmalıyım?",
+    "cevap": "Bu durum kulağınızı adaptöre çok yaklaştırdığınızda duyduğunuz ve yeni keşfettiğiniz \nbir durum ise normaldir. Fakat yeni ortaya çıkmış siz adaptöre yaklaşmadan işitebiliyorsanız, \nbir probleme işaret edebilir. İncelenmesi teknik servisimize ulaştırabilirsiniz.  \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/ \n \nGenel / Public / Kişisel Veri İçermez \n19"
+  },
+  {
+    "soru": "Bilgisayarımın adaptörü aşırı ısınıyor elimi değemiyorum. Bu konuda endişeliyim. Bir \nsorun yaşar mıyım?",
+    "cevap": "Adaptörünüz içerisinden yoğun miktarda elektrik akımı geçtiğinden, adaptörünüzün \nısınması kaçınılmazdır. Bu durum özellikle yaz aylarında daha fazla gözlemlenmektedir. \nAdaptörünüzün, kalorifer vb. ısı kaynaklarına yakın konumlandırmamaya çalışın.   \nEğer adaptörünüzde geçmişte gözlemlediğinizin çok üstünde bir ısınma yaşanıyorsa, başka \npriz veya farklı ortamda, farklı elektrik şebekesine sahip bir alanda adaptörü test \nedebilirsiniz. Burada ki gözleminiz, sorunun priz veya şebekeden değil adaptörden kaynaklı \nolduğunu gösteriyorsa ürününüzü gerekli kontrollerin yapılması için detaylı bir not ile \nservisimize ulaştırmanızı tavsiye ederiz. \nDetaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarımı batarya / pil takılıyken adaptörde, prizde kullansam sorun olur mu? \nBataryamı çıkarmalı mıyım?",
+    "cevap": "Hayır. Yeni teknoloji bataryalarda bilgisayarınızı adaptörden kullanıyor olmak, \nbataryanıza bir zarar vermez. Dizüstü oyuncu bilgisayarları yüksek performansa ancak \nadaptörden kullanımda ulaşabilirler. Bu nedenle adaptörde kullanım tavsiye edilir. Bataryanız \nise sarf malzeme olduğundan, kendi fabrikasyon ömrü iki türlüde kullanıma bağlı olarak \nzaman içerisinde aynı derecede azalacaktır. Adaptörünüz elektriği batarya üzerinden değil \ndoğrudan bilgisayarınıza iletir."
+  },
+  {
+    "soru": "Adaptörüm yüksek performans gerektiren bir iş yaptığımda bir anda güç kesiyor.  Ne \nyapmalıyım?",
+    "cevap": "Bilgisayarınızı muadil bir adaptör ile test ederek problemin adaptörden kaynaklı olup \nolmadığına emin olabilirsiniz. Sorunun adaptörden kaynaklı olduğunu teyit ettiğinizde sadece \nadaptörü, teyit edemediğiniz, muadil bir adaptör ile test edemediğiniz durumda ise \ndoğrudan bilgisayar ve adaptörü servisimize bir not ile birlikte ulaştırmanızı rica ederiz. \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Huma bir cihazım var. Şarja taktıktan sonra ekranın arka tarafında bir statik \nelektriklenme oluşuyor. Bu sorun neden kaynaklanır? Nasıl Çözebilirim?",
+    "cevap": "Bilgisayarınızın adaptörü, port girişi ve ekranın arka kapağında bir elektriklenme veya \nçarpma sorunu yaşıyorsanız ürününüzü ilk fırsatta servisimize ulaştırmanızı rica ederiz. \nÜrününüzün adaptöründe veya montajında bir sorun olabilir.  Gereken inceleme ve çözüm \nservisimizde sağlanacaktır.  \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Tüm Tulpar Serisi ürünlerinizde aynı pili/bataryayı mı kullanıyorsunuz?",
+    "cevap": "Genel olarak aynı yıl içerisinde çıkan Tulpar ürünlerimizde aynı batarya kullanılmakta \nfakat seneden seneye veya bazı modellerde farklılıklar olabilmektedir. Her modelin batarya \nözelliklerini birbiri ile web sitemiz üzerinden kıyaslayabilirsiniz. Batarya özelliklerinizi kontrol \netmek için web sitemizin arama kısmına bilgisayarınızın modelini yazarak, sayfadan batarya \nözelliklerini detaylı öğrenebilirsiniz. \nhttps://www.monsternotebook.com.tr/tulpar/"
+  },
+  {
+    "soru": "Tüm Semruk Serisi ürünlerinizde aynı pili/bataryayı mı kullanıyorsunuz?",
+    "cevap": "Genel olarak aynı yıl içerisinde çıkan Semruk ürünlerimizde aynı batarya \nkullanılmakta fakat seneden seneye veya bazı modellerde farklılıklar olabilmektedir. Her \nmodelin batarya özelliklerini birbiri ile web sitemiz üzerinden kıyaslayabilirsiniz. Batarya \nözelliklerinizi kontrol etmek için web sitemizin arama kısmına bilgisayarınızın modelini \nyazarak, sayfadan batarya özelliklerini detaylı öğrenebilirsiniz.  \nhttps://www.monsternotebook.com.tr/semruk/"
+  },
+  {
+    "soru": "Semruk ve Tulpar ürünlerinizde aynı batarya mı kullanılıyor? Pil Ömrü farkı \nnedir?",
+    "cevap": "Semruk modellerimiz kapasite ve değer olarak daha yüksek bataryalara sahiptir. \nFakat içerisinde bulunan donanımlar daha yüksek güç tüketimi yaptığı için pil ömrü olarak \nTulpar modelleri ile arasında net bir süre farkı bulunmamaktadır. Daha detaylı bilgi almak için \ndijital mağazamızı web sitemiz üzerinden ziyaret edebilir ve arkadaşlarımıza sorabilirsiniz."
+  },
+  {
+    "soru": "Abra modellerinizin hepsinde aynı pili mi kullanıyorsunuz?",
+    "cevap": "Genel olarak aynı yıl içerisinde çıkan Abra ürünlerimizde aynı batarya kullanılmakta \nfakat seneden seneye veya bazı modellerde farklılıklar olabilmektedir. Her modelin batarya \nözelliklerini birbiri ile web sitemiz üzerinden kıyaslayabilirsiniz. Batarya özelliklerinizi kontrol \nGenel / Public / Kişisel Veri İçermez \n49 \n \netmek için web sitemizin arama kısmına bilgisayarınızın modelini yazarak, sayfadan batarya \nözelliklerini detaylı öğrenebilirsiniz. \nhttps://www.monsternotebook.com.tr/abra/"
+  },
+  {
+    "soru": "Abra ve Tulpar Modelleriniz arasında Pil ömrü farkı var mı?",
+    "cevap": "Bu durum modelden modele ve yeni, eski modellerimize göre değişiklik gösterebilir. \nAynı sene içerisinde çıkan bazı modellerimizde aynı bataryalar bulunurken, Örneğin bazı \nTulpar’larda ise daha yüksek kapasiteli bataryalar bulunmaktadır.  \nTulpar modellerimizde daha yüksek enerjiye ihtiyaç duyan donanımlar bulunduğu için \nörneğin 4100 Mah batarya kullanan bir Tulpar modelinin, 4100 mah bataryaya sahip bir \nAbra’dan pil süresinin biraz daha çabuk bittiği gözlemlenebilir. \nWeb sitemiz üzerinden her model ve serinin batarya özelliklerini detaylı bir şekilde \nöğrenebilirsiniz. https://www.monsternotebook.com.tr/laptop/"
+  },
+  {
+    "soru": "Huma Modellerinizin hepsinde aynı batarya mı var?",
+    "cevap": "Genel olarak aynı yıl içerisinde çıkan Huma ürünlerimizde aynı batarya kullanılmakta \nfakat seneden seneye veya bazı modellerde farklılıklar olabilmektedir. Her modelin batarya \nözelliklerini birbiri ile web sitemiz üzerinden kıyaslayabilirsiniz. Batarya özelliklerinizi kontrol \netmek için web sitemizin arama kısmına bilgisayarınızın modelini yazarak, sayfadan batarya \nözelliklerini detaylı öğrenebilirsiniz. \nhttps://www.monsternotebook.com.tr/huma/"
+  },
+  {
+    "soru": "Güç Düğmesi fonksiyonlarını nasıl değiştirebilirim?",
+    "cevap": "Aşağıdaki adımlar Güç düğmesine basıldığında, Ekran kapağı kapatıldığında ve Uyku modu \nseçeneği seçildiğinde cihazınızın nasıl çalışacağını ayarlamanızı sağlayacaktır. \n1. Windows arama çubuğuna “kapak kapatıldığında gerçekleştirilenleri değiştir “yazın ve \nEnter tuşuna basın \n2. Açılan menüden Pilde veya Prizde kullanım için ilgili seçenekleri belirleyebilirsiniz."
+  },
+  {
+    "soru": "Notebook cihazım açıkken güç düğmesine bastığımda uyku moduna geçiyor, tamamen \nkapanması için ne yapabilirim?",
+    "cevap": "1. Görev çubuğu üzerinde sağ alt köşede saatin hemen yan (sol) tarafında yer alan Pil \nDurum simgesine (Windows 11 de başlat menüsü arama kutucuğuna ‘’Güç \nSeçenekleri’’ yazılmalıdır) sağ tıklayın ve ardından Güç Seçenekleri’ ne tıklayın. \n \n2. Açılan ‘’Güç Seçenekleri’’ penceresinde sol bölmede yer alan ‘’Güç düğmesinin \nyapacaklarını seçin’’ seçeneğine tıklayın. \n \n3. Gelen pencerede “Güç düğmesine bastığımda’’ seçeneğinin karşısında bulunan \nkutucukları cihazını hangi koşulda kullanırken ‘’Güç tuşuna’’ basıldığında kapanmasını \nistiyorsanız Pilde > Kapat veya Prize Takılı > Kapat şeklinde ayarlayabilirsiniz.  \n \n \n4. Yapılan değişikliklerin kalıcı olarak kaydedilmesi için pencerenin alt kısmında bulunan \n‘’Değişiklikleri Kaydet’’ seçeneğine tıklayın. \n \nGenel / Public / Kişisel Veri İçermez \n60"
+  },
+  {
+    "soru": "Standart Adaptörün Konnektör Ölçü Bilgileri Nedir?",
+    "cevap": "Delik Çapı: 5.5mm / Pin çapı: 2.5mm"
+  },
+  {
+    "soru": "Web sitenizde Bukra V1 ve Max modellerinin şarj süresini göremedim. Şarj süresi nedir \nacaba?",
+    "cevap": "Bukra V1                            3-4 Saat \nBukra V1  Max                  3-4 Saat"
+  },
+  {
+    "soru": "Web sitenizde Pusat Business Pro Mouse’un/Klavye’nin şarj süresini göremedim. Şarj \nsüresi nedir acaba?",
+    "cevap": "Pusat Business Pro Klavye  \n4 Saat \nPusat Business Pro Mouse \n3 Saat"
+  },
+  {
+    "soru": "Pusat One Shot Pro Şarj süresi ne kadar?",
+    "cevap": "Pusat One Shot Pro Şarj süresi   3 Saat kadar sürmektedir."
+  },
+  {
+    "soru": "Pusat Wave ANC şarj süresi ne kadar?",
+    "cevap": "Pusat Wave ANC  Şarj süresi  3 Saat kadar sürmektedir."
+  },
+  {
+    "soru": "Priz değişimi sonrası bilgisayarım görüntü vermiyor. Ne yapabilirim?",
+    "cevap": "Özellikle ilk açılışta ki Bilgisayarınıza gelen güç akımında ki ani değişik değerler, \nbilgisayarınızda statiklenme vb. sorunlara yol açabilir. Bu tür sorunları çözmek için bilgisayar \nkapalıyken güç tuşuna 20 saniye kadar basılı tutup statik alma işlemi denenebilir.  \nBu işlem işe yaramaz ise bilgisayarınızda takılı olan ramleri çıkarıp tekrar takmak veya BİOS \npilini söküp tekrar takmak sorunu genelde çözmektedir. Bu basit işlemlere rağmen sorun \ndüzelmez ise anakart veya diğer donanımlarla ilgili teknik bir arızadan şüphelenilebilir. Bu \ndurumda ürünün teknik servise gelmesi gerekmektedir.  \n \nGenel / Public / Kişisel Veri İçermez \n80"
+  }
+]

@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": "vs_6863a91d06588191acdaca096e47581b",
+            "created_at": 1751361821,
+            "file_counts": {
+                "cancelled": 0,
+                "completed": 13,
+                "failed": 0,
+                "in_progress": 0,
+                "total": 13
+            },
+            "last_active_at": 1751361824,
+            "metadata": {},
+            "name": "Monster Dok\u00fcman V4",
+            "object": "vector_store",
+            "status": "completed",
+            "usage_bytes": 368241,
+            "expires_after": null,
+            "expires_at": null
+        },
+        {
+            "id": "vs_686242bfc0f88191bfe0b87efe1136b0",
+            "created_at": 1751270079,
+            "file_counts": {
+                "cancelled": 0,
+                "completed": 4,
+                "failed": 0,
+                "in_progress": 0,
+                "total": 4
+            },
+            "last_active_at": 1751270090,
+            "metadata": {},
+            "name": "Hukuk Mevzuat Veritaban\u0131",
+            "object": "vector_store",
+            "status": "completed",
+            "usage_bytes": 2551705,
+            "expires_after": null,
+            "expires_at": null
+        }
+    ],
+    "has_more": false,
+    "object": "list",
+    "first_id": "vs_6863a91d06588191acdaca096e47581b",
+    "last_id": "vs_686242bfc0f88191bfe0b87efe1136b0"
+}

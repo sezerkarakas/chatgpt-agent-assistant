@@ -1,0 +1,14 @@
+[
+  {
+    "soru": "Modem ve internetimde bir sorun yok, Ancak/Ama bilgisayarımda Wifi \nbağlantı hızım aşırı düşüyor. Sorunu nasıl çözebilirim?",
+    "cevap": "İntel Wifi sürücünüzü güncelledikten sonra problemin çözülmemesi halinde, \nBilgisayarınızı Wifi kartınızın kontrol edilmesi için teknik servisimize ulaştırmanızı rica ederiz.  \nDetaylı bilgi için, web sitemizin teknik servis sayfasını ziyaret edebilirsiniz.  \nhttps://www.monsternotebook.com.tr/teknik-servis/ \n \n \n \nGenel / Public / Kişisel Veri İçermez \n5"
+  },
+  {
+    "soru": "Pusat Pro Bluetooth Gamepad ürünü  bir bilgisayara kaç adet bağlanabilir?",
+    "cevap": "Bir bilgisayara 4 adete kadar eşleştirilebilmektedir."
+  },
+  {
+    "soru": "Pusat Pro Bluetooth Gamepad Firmware / Yazılım Yükleme işlemi nasıl yapılır? \nGamepadimin yazılımını / firmware’ni nasıl güncelleye bilirim?",
+    "cevap": "Kontrolcü Kablosuz bağlandığında oyunlarda x-İmput olarak çalışmıyor ise \nhttps://www.monstersdriver.com/drivers/pusat/PRO%20BLUETOOTH%20GAMEPAD%20FIR\nMWARE.5.rar bağlantısından ilgili FW dosyasını indirerek aşağıdaki adımları uygulayınız; \nİşlemlere başlamadan önce cihazı bilgisayarımızla eşleştirdiyseniz Denetim Masası\\Tüm \nDenetim Masası Öğeleri\\Aygıtlar ve Yazıcılar adımlarından kontrolcünün Windows \ntarafından yüklenen sürücüsünü bulmalı ve SAĞ TIK>AYGITI KALDIR seçenekleri ile \nkaldırılması gerekmektedir. Ardından aşağıdaki işlemlerle devam edilmelidir; \n1. PRO BLUETOOTH GAMEPAD FIRMWARE’ Dosyasından “TestTool” programını çalıştırın. \n2. Gamepad’i kapalı konuma getirin. \n3. Gamepad’i USB ile bilgisayarınıza bağlayın. \n4. Aynı anda “Select” + “Start” tuşlarına basarak Gamepad’i çalıştırın. (Güç butonunu \nGamepad ikonu konumuna getirin) Windows’tan USB bildirim sesini duyunca tuşlardan elinizi \nçekin. \n5. Programda, cihazınız “Device” alanın da gözükecektir. \n6. Firmware dosyasını bulun. (Mevcut Klasör içindedir) \n \n7. “Download” tuşuna basarak firmware güncelleştirin. \n8. Güncelleme tamamlandıktan sonra Gamepad’i kapatıp yeniden açın, ve “Monster” tuşuna \nbasılı tutarak pair (Eşleşme) moduna alın. \n9. Pair modunda ilk etapta 4 led sürekli ve hızlı yanıp sonecektir. “Monster” tuşuna tekrar \nbasarak Led4’ün (Sağdan 1.Led) tek başına sürekli yanıp sönmesini sağlayın. Bu pair (eşleşme) \nXbox Wireless eşleşmesidir.  \n10. Windows uygulamasından Bluetooth cihaz ekle sekmesinden Gamepad’inizi bularak \neşleşmeyi tamamlayın. \nBu esnada Led4 tek başına sabit yanacaktır."
+  }
+]
