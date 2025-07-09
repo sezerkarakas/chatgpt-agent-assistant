@@ -1,5 +1,6 @@
 from agents import Agent, FileSearchTool, Runner, TResponseInputItem ,function_tool
 from dotenv import load_dotenv
+from tools import local_file_search
 
 load_dotenv()
 
@@ -15,24 +16,23 @@ def end_conversation():
 
 # Sistem promptunu yükle
 try:
-    with open('gpt_prompt_v333.md', 'r', encoding='utf-8') as file:
+    with open('gpt_prompt_sakali.md', 'r', encoding='utf-8') as file:
         system_instructions = file.read()
 except FileNotFoundError:
     print("Hata: gpt_prompt.md dosyası bulunamadı!")
     exit()
+
+
 agent = Agent(
     name="Monster Technical Assistant",
     instructions=system_instructions,
-    model="gpt-4o-mini",
+    model="gpt-4o-mini",  # Veya local LLM
     tools=[
-        FileSearchTool(
-            max_num_results=3,
-            vector_store_ids=["vs_6863a91d06588191acdaca096e47581b"],
-        ),
+        local_file_search,
         end_conversation
-
     ],
 )
+
 print(agent)
 
 print("-----------------------------------------------------")

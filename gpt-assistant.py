@@ -15,8 +15,7 @@ except FileNotFoundError:
     exit()
 
 # OpenAI istemcisini oluştur
-client = OpenAI()  # API keyinizi buraya girin
-
+client = OpenAI(os.getenv("OPENAI_API_KEY"))
 # Asistanı oluştur
 assistant = client.beta.assistants.create(
     name="Monster Terminal Asistanı",

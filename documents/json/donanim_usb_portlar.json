@@ -1,0 +1,34 @@
+[
+  {
+    "soru": "Bana gönderilen USB bellek çalışmıyor. Ne yapabilirim?",
+    "cevap": "Çalışmayan USB belleğe dair bir video çekip info@monsternotebook.com adresine \nkişisel adresiniz, cihaz modeli ve seri numarası ve iletişim bilgilerinizi yazarak mail \ngöndermeniz halinde yeni bir USB bellek gönderebiliriz. \nAyrıca Web sitemizin, Çözüm Merkezi bölümünde, Sürücüler başlığına tıklayarak, Uygun \ncihaz modelini seçebilir ve sürücülerinizi güncel olarak indirebilirsiniz.  \nhttps://www.monsternotebook.com.tr/suruculer/"
+  },
+  {
+    "soru": "USB portlarım çalışmıyor. Nasıl Çözebilirim?",
+    "cevap": "Portlara taktığınız bütün USB çıkışlı cihazlarda durum aynıysa aşağıdaki adımları kontrol \nedebilir ve deneyebilirsiniz."
+  },
+  {
+    "soru": "Bilgisayarımdan HDMI kablosu ile görüntü aktaramıyorum. Bu sorunu nasıl \nçözebilirim?",
+    "cevap": "Kablonuzda bir problem olmadığından emin olun. Farklı bir kablo ile denediğiniz \nhalde sorun devam ediyorsa, İntel ve Nvidia sürücülerinizi güncelleyip, tekrar görüntü \naktarmayı deneyin. Problemleriniz bu işlemlere rağmen devam ediyorsa ürününüzü kontrol \nedilmesi ve çözüm sağlanması için tarafımıza ulaştırabilirsiniz. \nDetaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarımdan Display port ile görüntü alabilir miyim?",
+    "cevap": "Sahip olduğunuz modelin, arkasında bulunan portlara bakarak veya web sitesi üzerinde \nmodel araması yaparak bilgisayarınızın özelliklerinde display port desteği olup olmadığını \nkontrol edebilirsiniz.  \nDisplay port desteğiniz mevcutsa, ekran kartınızı güncelledikten sonra bir display port \nkablosu aracılığı ile görüntü aktarımı sağlayabilirsiniz."
+  },
+  {
+    "soru": "Display port ile Mini Display port arasında ki fark nedir?",
+    "cevap": "Aralarında daha çok fiziksel farklılıklar bulunmaktadır. Dizüstü bilgisayarlarda \ngenelde Mini Display port desteği bulunmaktadır. Normal ve Mini versiyonu arasında bir \nkalite farkı bulunmamaktadır.  \n \nGenel / Public / Kişisel Veri İçermez \n25"
+  },
+  {
+    "soru": "USB Alıcı ile Clutch Gamepad Eşleşmiyor",
+    "cevap": "Clutch Gamepad’ı daha önce cihazınızla eşleştirdiyseniz ve daha sonra tekrar \nbağlanmak istediğinizde hata alıyorsanız aşağıdaki adımları uygulayın;  \n1. Bilgisayarınızdaki işletim sisteminin güncel olduğundan emin olunuz.  \n2. Bluetooth ve cihazlar > Cihazlar seçeneğine giriş yaparak açılan menüden PUSAT \nCLUTCH GAMEPAD aygıtını ‘’Cihazı Kaldır’’ seçeneği ile kaldırın (Bu işlem USB Alıcı \nkullanarak yapılan eşleştirmeler için geçerlidir).  \n3. Bilgisayarınızı yeniden başlatın ve ‘’Bluetooth destekli 2.4Ghz Alıcı ile bilgisayara \nbağlantı nasıl sağlanır?’’ başlığındaki adımları tekrarlayınız."
+  },
+  {
+    "soru": "Bilgisayarımın HDMI girişinde temassızlık var. Bilgisayarımı kıpırdattığım \nzaman ekran kopuyor. Farklı kablolar ile denedim sorun çözülmedi. Yardımcı olur \nmusunuz?",
+    "cevap": "Bilgisayarınızda veya portlarda teknik bir problem olabilir. Bilgisayarınızı servisimize \nbir not ile birlikte ulaştırmanızı rica ederiz. \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Type-C Portu ile harici monitörünüze aktaramıyorum ne yapmalıyım?",
+    "cevap": "Genel / Public / Kişisel Veri İçermez \n65 \n \nAşağıdaki adımları uygulayabilirsiniz. \n1.Type-C portu ile harici monitöre görüntü aktarmak için Portun Thunderbolt 3 veya \nThunderbolt 4 özelliğini desteklediğinden emin olmalısınız. \n \n2.Cihazınızın Thunderbolt desteği varsa https://www.monsternotebook.com.tr/suruculer/ \nsayfasından uyumlu sürücüleri yüklemelisiniz. \n \n3.Nvidia Ekran kartı sürücüleri güncel olmalıdır, Güncel değil ise \nhttps://www.nvidia.com.tr/drivers adresinden veya Cihazda yüklü olan Nvidia Experience \nüzerinden güncelleyebilirsiniz. \n3.Nvidia Kontrol Paneline giriş yapılarak Ekran > Birden Çok Ekran Ayarla, seçeneği seçilmeli \nve bağlı olan monitörün uygulama tarafından görünürlüğü ''Kullanmak İstediğini Ekranı \nSeçin'' alanından kontrol edilmelidir. Monitörün panelde görünmesi durumunda monitör \nisminin yanında bulunan kutucuk seçilmelidir. \n \n4.Aygıt görünmüyorsa Type-C kablosu farklı bir kablo ile değiştirilmelidir, Çözüm alınamaması \ndurumunda işletim sistemi tekrar yüklenmelidir."
+  }
+]

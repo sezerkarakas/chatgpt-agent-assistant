@@ -1,0 +1,98 @@
+[
+  {
+    "soru": "Açma tuşuna bastıktan bir süre sonra bilgisayar kendini kapatıyor. Ne yapmalıyım?",
+    "cevap": "Bilgisayarınız adaptörü takılı olmadığı durumda bu sorunu yaşıyorsanız. Problem \nbataryanızdan kaynaklı olabilir.  Adaptör takılı olmasına rağmen bu problem yaşanıyorsa \naşağıda çözüm adımlarını uygulayabilirsiniz. \n1.Açılmayan bilgisayarınızın adaptörünü prizden çekin. Ardından bataryası sökülebilir bir \nmodel ise bataryanızı çıkartın. Entegre ise batarya takılı olarak devam edin. 40 saniye kadar \ngüç düğmesine basılı tutun. Ardından elinizi çekin. \n2.Ardından prize takıp bir kez güç tuşuna basarak bilgisayarın çalışıp, çalışmadığını kontrol \nedelim.  \nÇalışmaması durumunda bilgisayarınızı servisimize ulaştırmanızı rica ederiz. \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarımın klavye aydınlatması çalışmıyor nasıl çözebilirim?",
+    "cevap": "Bilgisayarınızda Kontrol Merkezi uygulamanız yüklü değil ise yükleyerek kontrol \nmerkezi içerisinde ki ayarları kontrol ediniz. Klavye aydınlatmanız, sürümünüze göre \ndeğişiklik göstermek ile beraber BİOS menüsü üzerinden açılıp, kapanabilir. Eğer BİOS \nüzerinde bir ayar değişikliği veya güncelleme yapılmadığı halde Klavye aydınlatması \nçalışmıyorsa, problemin kaynağı teknik olabilir. Bu durumda cihazınızı servisimize \nulaştırmanızı rica ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Klavye aydınlatmam sadece tek renk yanıyor, otomatik geçiş yapmıyor, yardımcı olur \nmusunuz?",
+    "cevap": "Control Center 3.0 destekli notebook modellerimizde, Tek renk desteği bulunmakta \nve süreli, otomatik geçiş özelliği bulunmamaktadır.  Bazı harici uygulamalar ile bu özellik \nedinebilmektedir. Fakat bu harici uygulamaların güvenilirliği bilinmediği için tarafımızdan \ntavsiye edilmemektedir. \nGenel / Public / Kişisel Veri İçermez \n11"
+  },
+  {
+    "soru": "Klavye tuşlarımda renk soyulması var. Ne yapabilirim?",
+    "cevap": "Ürününüzü teknik servisimize bir not ile birlikte ulaştırabilirsiniz. Diğer bir alternatif \nolarak, Soyulan tuşların fotoğrafları, cihazın hangi tarihte satın alındığını gösteren Fatura, \nirsaliye vb. belge ile destek@monsternotebook.com adresine talebinizi mail atabilirsiniz. \nTalebinize hafta sonları haricinde 24 saat içerisinde dönüş yapılacaktır. Gelen ve Spam \nkutunuzu bu süre zarfında kontrol etmenizi tavsiye ederiz."
+  },
+  {
+    "soru": "Klavye’de bazı tuşlar ara ara basmıyor. Yardımcı olur musunuz?",
+    "cevap": "Soruna dair bir video çekip, bilgisayarınızın masaüstüne ekleminizi ve yanına detaylı \nbir bilgi notu ekleyerek ürünü servisimize ulaştırmanızı rica ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Klavyem Çalışmıyor Ne yapmalıyım?",
+    "cevap": "Statik alma işlemleri uygulayarak, klavyenizin çalışıp çalışmadığını deneyebilirsiniz. \nBilgisayar kapalı durumdayken adaptörü prizden çekin. Bataryanız entegre değilse \nbataryanızı da çıkarabilirsiniz. Sonrasında 40 saniye güç tuşuna basılı tutunuz. Bu işlemin \nardından adaptörü takın ve bilgisayarın açma tuşuna basarak tekrar çalıştırın. Bu işlem \nsonrasında klavyeniz hala çalışmıyorsa ürünü servisimize ulaştırmanızı rica ederiz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Klavyem 6 ay önce teknik serviste değiştirildi fakat yine aynı tuşlar basmıyor?",
+    "cevap": "Bilgisayarınızda fiziksel bir hasar veya sıvı teması gibi bir durum yoksa, yapılan klavye \ndeğişikliğine rağmen, Aynı tuşlarda basmama gibi bir problem yaşıyorsanız. Bunun sebebi, \ntekrar klavyeniz olabileceği gibi, klavye ve anakart bağlantısında ki bir arızadan, BİOS sürümü \nveya pilinden, anakarttan ya da statiklenmeden kaynaklanıyor olabilir."
+  },
+  {
+    "soru": "Touchpadim kendi kendine hareket ediyor. Yardımcı olur musunuz?",
+    "cevap": "Aşağıda ki adımları deneyebilirsiniz: \nA- Bilgisayar kapalı durumdayken adaptörü prizden çekin. Bataryanız entegre değilse \nbataryanızı da çıkarabilirsiniz. Sonrasında 40 saniye güç tuşuna basılı tutunuz. Bu \nişlemin ardından adaptörü takın ve bilgisayarın açma tuşuna basarak tekrar çalıştırın. \nTouchpadinizi test edin. \n \nGenel / Public / Kişisel Veri İçermez \n12 \n \nB- Touchpad sürücülerinizi silip, tekrar kurarak deneyebilirsiniz. \n  \nC- Winows, Dokunmatik Yüzey ayarları’ndan Touchpadini Kapatıp, bir süre sonra tekrar \naçıp test edebilirsiniz. \n  \nD- İşletim sisteminizi, silip tekrar kurarak, problemin çözülüp çözülmediğini \ngözlemleyebilirsiniz. Bazen bu durumlar, zararlı veya bozuk dosyalardan kaynaklı \nyaşanabilir. \n \nBütün bu adımlar sorunu çözmediyse bilgisayarınızı servisimize ulaştırmanızı tavsiye \nederiz.  Servis süreci hakkında detaylı Bilgi: \nhttps://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Touchpadim çalışmıyor. Ne yapmalıyım?",
+    "cevap": "Windows üzerinden, “Dokunmatik Yüzey Ayarları” kısmından touchpadin açık olup \nolmadığını kontrol ediniz. Açık olmasına rağmen çalışmıyorsa ve BİOS menüsü üzerinde bir \nayar değişikliği ya da BİOS güncellemesi yapılmadıysa, Bilgisayarınızı teknik bir arıza şüphesi \nile servisimize ulaştırabilirsiniz. \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Klavyeyi kullanırken elim değiyor. Touchpadimi nasıl devre dışı bırakabilirim?",
+    "cevap": "Denetim Masası Üzerinden veya Windows, Başlat çubuğu kısmında ki arama \nkutusuna “Dokunmatik Yüzey Ayarları” yazarak Touchpad ayarlarınıza erişebilir. Buradan ilgili \ndonanımı aç ve kapat seçeneği üzerinden ister devre dışı, isterseniz de aktif hale \ngetirebilirsiniz."
+  },
+  {
+    "soru": "Touchpad’imi tekrar aktifleştiremiyorum. Nasıl aktifleştirebilirim?",
+    "cevap": "Denetim Masası Üzerinden veya Windows, Başlat çubuğu kısmında ki arama \nkutusuna “Dokunmatik Yüzey Ayarları” yazarak Touchpad ayarlarınıza erişin, ardından En \nüstte bulunan kapalı butonuna basarak aktifleştirebilirsiniz. Eğer bu ayarlara erişemiyor veya \nGenel / Public / Kişisel Veri İçermez \n13 \n \naçık hale getirdiğiniz halde touchpad çalışmıyorsa, BİOS menüsü üzerinden Touchpadinizi \nkontrol etmeniz gerekebilir. \nBİOS konusunda rehberliğe ihtiyacınız varsa 0850 255 11 11’nolu numaramızı arayarak \ndestek alabilirsiniz.  \nBİOS ayarlarınızda da bir problem yoksa touchpadinizde bir arıza yaşanmış olabilir. \nİncelemesi için bilgisayarınızı teknik servisimize ulaştırabilirsiniz.   \nServis süreci hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarımı yeni satın aldım. Açma tuşuna bastığımda Siyah bir ekran geliyor ve \nsolda sadece beyaz bir tire görünüyor. Ne yapmalıyım?",
+    "cevap": "Bu durum bilgisayarınızda yüklü olan işletim sisteminin çökmesi, sorunlu olması, hiç \nyüklü olmaması gibi durumlarda karşınıza çıkabilir. Bununla beraber disklerinizin boot \nedilmemesi gibi durumlarda veya BİOS yazılımında yaşanan, problemlerde de benzer bir \ndurum karşınıza çıkabilir.   \nBilgisayarınızı aç ve kapat yaparak BİOS menüsüne erişmeyi deneyebilir ve BİOS ayarlarınızı \nsıfırlamayı deneyebilirsiniz. Bu durumda bir çözüm olmuyorsa, bilgisayarın kontrol edilmesi \niçin teknik servisimize ulaştırılmasını rica ederiz. \nDetaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/ \n \n \nGenel / Public / Kişisel Veri İçermez \n22"
+  },
+  {
+    "soru": "Bilgisayarımı yeni satın aldım. Açma tuşuna bastığımda bios ekranı geliyor. Bu sorunu \nnasıl çözebilirim?",
+    "cevap": "Bilgisayarınızı eğer FreeDOS olarak satın aldıysanız. Öncelikle işletim sistemi \nkurmanız gerekmektedir. Windows kurulumu konusunda desteğe ihtiyacınız varsa bizlere \ndanışabilirsiniz.  \nBilgisayarınızda İşletim sistemi kurulu olduğu halde BİOS ekranına atıyorsa, Öncelikle BİOS \nmenüsüne girip, BİOS ayarlarını default edin. Bu işlem sonrası durum aynıysa, disklerinizde \nveya işletim sisteminizde bir sorun olabilir. Disklerinizde sorun olması durumunda sorunlu \nolan disk BİOS menüsünde görünmeyecek veya BİOS aşamasının ilerisine hiç geçmeyecek \nyani açılmayacaktır.  Bu durumda bilgisayarınızı incelenmesi ve çözüm için servisimize \nulaştırmanızı tavsiye ederiz.  \nDetaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarın açma tuşuna bastığımda BİP, Dııt şeklinde uyarı / alarm sesi veriyor. Bu \nsorun neden olur? Ne yapmalıyım?",
+    "cevap": "Bilgisayarınızda, Ram arızası, Fan çalışmama durumu, Anakart arızası vb. durumlar \nolduğunda bu tür uyarı, ikaz sesleri duyulabilir. Bilgisayarınızı ilk fırsatta servisimize \nulaştırmanızı tavsiye ederiz. \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Oyun oynarken, bir anda FPS aşırı düşüyor. Klavye ışıkları gidip geliyor.  Yardımcı olur \nmusunuz?",
+    "cevap": "FPS değerlerinizin aniden düşmesi ve Klavye ışıklarınızın gidip gelmesi bilgisayarınız \nGüç/Voltaj kaybı yaşadığını göstermektedir. Bu sorunu sürekli yaşıyorsanız, bulunduğunuzun \nGenel / Public / Kişisel Veri İçermez \n31 \n \nkonumun elektrik şebekesinde bir problem yoksa, kullandığınız adaptörde bir arıza veya \nfarklılık olduğuna işaret etmektedir. Ayrıca bilgisayarınızın anakartında bulunan sigortaların \nve bataryanızında kontrol edilmesi gerekmektedir. Yaşadığınız sorunun Adaptörünüz dışında \nbaşka bir sebepten kaynaklanma ihtimali mevcuttur. \nGerekli incelemelerin yapılması ve sorunun çözülmesi için ürünü servisimize ulaştırmanızı \nrica ederiz. \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Gamepad’imin tuşu basmıyor / basılı kalıyor Ne yapabilirim?",
+    "cevap": "Ürününüzü servisimize ulaştırmanızı rica ederiz.   \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Pusat K3 Pro Klavyemin ışıkları, RGB aydınlatması yanmıyor. Bu arızayı nasıl gidere \nbilirim?",
+    "cevap": "A- Klavyenizin sağ tarafında ki ses açma silindiri altında 4 adet tuş bulunmaktadır. En \nsolda üzerinde güneş ve ses sembolü olan tuşa bir kere basıp RGB’yi açabilir. Silindir \nüzerinden parlaklığı kısıp, arttırabilirsiniz. \n \nB- Bu tuşları kullanmanıza rağmen RGB aydınlatma çalışmıyorsa, Pusat K3 Pro \nKlavyenizin, Monster sürücüler sayfasından indirip kurduğunuz uygulamasına girin.  \n \nUygulamada bulunan varsayılanı yükle butonuna basınız. RGB aydınlatma açılacaktır. \nC- Yukarıda ki iki yönteme rağmen RGB çalışmıyorsa, ürünün teknik servisimize \nulaştırılması gerekmektedir.   \n \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Pusat K3 Pro Klavyemin tuşları basmıyor. Servise mi göndermem gerekiyor? Ne \nyapmalıyım?",
+    "cevap": "Farklı bir USB port üzerinden bağlantı kurmayı deneyin ve tuşları test eğer işe \nyaramazsa ürünün teknik servisimize ulaştırılması gerekmektedir.  Servis hakkında detaylı \nBilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Pusat K3 Pro Klavyemi temizlemek isterken tuşu çıktı. Yerine geri takamıyorum",
+    "cevap": "Çıkan tuş ile birlikte ürünün teknik servisimize ulaştırılması gerekmektedir.   \nServis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Caps Lock, Num Lock gibi tuşlara basıldığında Sesli bildirim Nasıl alabilirim?",
+    "cevap": "1. Başlat menüsü arama kutucuğuna ‘’Geçiş Tuşlarını Kullan’’ yazarak ilgili menüye gidin. \n2. Caps Lock, Num Lock veya Scroll Lock'a her bastığınızda bir ses çal seçeneğini Açık olarak \nayarlayın. \n3. Windows simgesini Ayarlar, Erişim Kolaylığını seçin ve aşağı kaydırarak Ses seçeneğine \ngidin. \n4. Sesli uyarıları görsel olarak göster açılır menüsünden bir seçenek belirleyin. \nWin 10 Menü Seçenekleri Referans Alınmıştır."
+  },
+  {
+    "soru": "Bilgisayar kapalı konumdayken güç tuşuna basıyorum. Klavye RGB ışıkları ve \nFan Çalışıyor ancak ekrana görüntü gelmiyor",
+    "cevap": "Bilgisayarın ekran sigortasının olduğu alanda yüksek akım veya arklanma meydana \ngelmiş ise sigorta ya bozulur ya da kendini korumaya alır.  \n \nGenel / Public / Kişisel Veri İçermez \n53 \n \nBazı Modellerde ki cihazlar için aşağıdaki adımlar ekran sigorta korumasını devre dışı \nbırakacaktır (fiziksel olarak zarar görmemişse); \n1. \nCihaz kapalı konuma getirilmeli ve priz bağlantısı kesilmelidir \n2. \n25 sn Güç tuşuna basılı tutulmalıdır \n3. \nFN + B + GÜÇ tuşlarına 20 sn basılı tutulmalıdır. \n4. \nCihaz Prize takılarak 10 sn beklenmeli ardından GÜÇ tuşuna basılarak \naçılmalıdır. \nNot: Eğer yöntem çalışmaz ise sigorta arızalanmış olabilir. Ayrıca bunu anlamanın en kolay \nyolu Caps Lock tuşuna basmaktır. Eğer cihazda Caps Lock ışığı varsa ve ekrana görüntü \ngelmediği halde tuşa basıldığında yanıp sönüyorsa Bilgisayarınızı teknik servise göndermeniz \ngerekmektedir. \nCihazın ekran sigortasında sorun var ise DP port veya HDMI ile harici monitöre bağlantı \nsağlayarak cihazdan görüntü alınabilir ancak bu geçici bir çözümdür. Cihazın bu durumda \nteknik servise yönlendirilmesi gerekmektedir.  \nYukarıdaki adımlar her modelde çalışmayabilir. Bu durumda ürünün teknik servise \nyönlendirilmesi gerekir."
+  },
+  {
+    "soru": "Cihazımın touchpad özelliğini devre dışı bırakmak istiyorum. Nasıl yapabilirim?",
+    "cevap": "Notebook cihazlarınızda bulunan Touchpad özelliği Windows da yer alan ‘Dokunmatik Yüzey \nAyarları’’ ve ‘’Aygıt yöneticisi’’ paneli ile devre dışı bırakılabilmektedir. \nBu ayarlar ile Touchpad özelliği devre dışı bırakıldığında, Touchpad Klavye kısayolu ve \nTouchpad alanının sol üst köşesinde bulunan ON/OFF sensörü de (bazı modellerde \nbulunmaktadır) kullanım dışı kalacaktır. Böylelikle klavye kullanımı esnasında elinizin istem \ndışı Touchpad bölgesine veya sensörüne temas etmesi durumunda Fare ikonu hareket \netmeyecektir. \n1. Yöntem; \n \n• Windows arama çubuğuna ‘’Aygıt Yöneticisi’’ yazarak Enter’a basın. \n• Açılan ‘’Aygıt Yöneticisi’’ menüsünden İnsan Arabirim Cihazlarına (sol \ntarafında bulunan aşağı yöndeki oka tıklanarak içerik genişletilmeli) tıklanarak \nseçenekler genişletilmelidir. \n• Genişletilen seçenekler arasından ‘’IAC uyumlu dokunmatik yüzey’’ aygıtına \ntıklanmalıdır \nGenel / Public / Kişisel Veri İçermez \n55 \n \n• Açılan özellikler menüsünden Sürücü adımına gelerek ‘’Cihazı devre dışı bırak’’ \nseçeneğine tıklanmalıdır, bu seçenek Touchpad özelliğini tamamen devre dışı \nbırakacaktır. \nNot: Touchpad özelliğini tekrar aktif hale getirmek için Aygıt Yöneticisinde \nbulunan ‘’IAC uyumlu dokunmatik yüzey’’ aygıtına sağ tık yaparak Cihazı \nEtkinleştir seçeneği seçilmelidir. \n2. Yöntem ; \n \n• Windows arama çubuğuna ‘’Dokunmatik yüzey ayarları’’ yazarak Enter’a \nbasın. \n• Dokunmatik yüzey ayarları menüsünden ‘’Dokunmatik yüzey’’ seçeneğini \nKapalı konuma getirin. \nHarici Mouse takılıyken Touchpad özelliğini, Touchpad Klavye kısa yolu ve Touchpad alanının \nsol üst köşesinde bulunan ON/OFF sensörünü devre dışı bırakmak için; \n• Dokunmatik yüzey menüsünde bulunan ‘’Fare bağlandığında dokunmatik \nyüzeyi açık bırak’’ seçeneğinin tiki kaldırılmalıdır."
+  },
+  {
+    "soru": "Cihaz kapalı konumdayken güç tuşuna basılarak açılıyor ve Monster \nLogosundan sonra siyah ekranda kalıyor. Ne yapmalıyım?",
+    "cevap": "Cihaz Switchable dGPU modunda ise MsHybrid moduna alınmalıdır işleme başlarken; \n1. \nCihazın ilk açılışında F2 ye basılı tutularak BIOS menüsüne girilmelidir \n2. \n Advanced > Switchable Graphics > Display Mode > MsHybrid seçilmelidir. \n3. \n F4 > ENTER tuşlarına basılarak ayarlar kaydedilmelidir (cihaz yeniden \nbaşlayacaktır) \nNot: Cihaz dGPU modundan, MsHybrid moduna alındığında Ekrana görüntü geliyor ise sorun \nNvidia ekran kartı sürücüleri kaynaklı olabilir (Ver 497). Bu durumda mevcutta yüklü Nvidia \nsürücüsü kaldırılarak en güncel sürüm kurulmalıdır. \n \nSürücü yüklemesine başlamadan önce Nvidia yükleme panelinden ‘’Özel > Temiz kurulum \nyap’’ seçenekleri belirlenerek yükleme başlatılmalıdır (Bu işlem mevcut sürücüyü tamamen \nsilecektir)."
+  },
+  {
+    "soru": "Klavye tuşlarına bastığım zaman bip sesleri alıyorum ne yapabilirim?",
+    "cevap": "• Başlat menüsü arama çubuğuna ‘’ filtre Tuşları'nı başlatmak için kısayol tuşuna  \nizin ver’’ yazarak Enter tuşuna basın. \n• Klavye Ayar menüsünde bulunan  ‘’ kısa veya tekrarlanan tuş vuruşlarını yoksay ve \nklavye yineleme hızını değiştir’’ seçeneğini Kapalı konuma getirin. \n \n \nGenel / Public / Kişisel Veri İçermez \n58"
+  }
+]

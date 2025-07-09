@@ -1,0 +1,46 @@
+[
+  {
+    "soru": "Bilgisayarımın hoparlöründen cızırtı sesi geliyor. Yardımcı olur musunuz?",
+    "cevap": "Sahip olduğunuz model üzerinde Sound Blaster etiketi mevcutsa, bilgisayarınızda \nSound Blaster yazılım desteği mevcut demektir. Bilgisayarınızda Sound Blaster uygulaması \nyüklü değil veya sağlıklı çalışmıyorsa, cızırtılı ses alabilirsiniz. Eğer Sound Blaster uygulaması \nyüklü ve bir hata uyarısı vermeden açılıyorsa, problem hoparlörden kaynaklı teknik bir sorun \nolabilir. Bu durumda incelenmesi ve çözüm için bilgisayarınızı servisimize ulaştırabilirsiniz. \nServis hakkında detaylı Bilgi: https://www.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bilgisayarımın mikrofonu çalışmıyor. Sesimi karşıya duyuramıyorum. Ses kaydı \nyapamıyorum. Yardımcı olur musunuz?",
+    "cevap": "Sadece bilgisayarınızın mikrofonu çalışmıyorsa bilgisayarınızın teknik servise gelmesi \ngerekmektedir. Servis hakkında detaylı Bilgi: www.monsternotebook.com.tr/teknik-servis/ \nBilgisayarınızın kendi mikrofonu dahil takılan tüm mikrofonlar çalışmıyorsa, öncelikle \naşağıdaki adımları deneyiniz; \nArama çubuğuna \"Mikrofon gizlilik ayarları\" yazarak ayarları açın. Menüdeki mikrofon izinleri \nkontrol edin. İzinler açıksa, Denetim Masası > ses kayıt altında, varsayılan kayıt aygıtı Realtek \nolarak seçilmelidir. Ancak sorun yine devam ediyorsa ses sürücüleri kaldırılarak yeniden \nkurulmalıdır, Sürücüleri www.monsternotebook.com.tr/suruculer/ adresinden \nindirebilirsiniz. \n Ayrıca Windows sorun gidericiyi kullanarak sürücü sorunları için tarama yapabilirsiniz. Görev \nçubuğundaki ses simgesine sağ klik yaparak \"Ses sorunlarını gider\" seçeneği tıklayın. \nMikrofonla ilgili sorun bulunması durumunda windows tarafından otomatik onarılacaktır. \n\"Sorun bulunamadı\" ise; Mikrofon gizlilik ayarlarında ''Uygulamaların mikrofonunuza \nerişimine izin verin'' seçeneğindeki butonu birkaç kez açıp kapatmayı deneyebilirsiniz \n(Windows kaynaklı hata). Bu işlemden sonra ''Ses sorunu mu yaşıyorsunuz?'' \nŞeklinde bir bildirim alabilirsiniz. Bildirimin üstüne tıklayarak, mikrofondaki yazılım \nsorununun Windows tarafından çözümlenmesini sağlayabilirsiniz (Bazı sistemlerde bu uyarı \nçıkmayabilir). Son adım olarak; Denetim Masası > Ses > Kayıt adımları takip edilerek \nvarsayılan ses çıkış aygıtı ''Realtek(R) Audio'' olarak belirlenmelidir. Sorun halen devam \nediyorsa işletim sistemi yeniden kurulmalıdır. Teknik Destek İçin 0850 255 11"
+  },
+  {
+    "soru": "Bilgisayarımda Discord veya Steam’de kulaklığımda ki ses mikrofondan karşıya gidiyor. \nHangi kulaklığı takarsam takayım bu sorunu yaşıyorum. Nasıl Çözebilirim?  \nGenel / Public / Kişisel Veri İçermez \n45",
+    "cevap": "Discord, Steam, Zoom vb uygulamalarda çevre gürültüsü önleme özelliklerini aktif \netmenizi öneririz. Bu ayarlar aktif olduğu halde ses gitmeye devam ediyorsa, Nvidia \nBroadcast uygulamasını yükleyip, mikrofon ayarlarına girin. Ses süzgecini aktif edin. Ardından  \ntekrar deneyiniz.  \nEğer sorun devam ediyor ve tüm kulaklık ve mikrofonlarda bu durum oluyorsa bilgisayarınızın \nteknik servise gelmesi gerekmektedir. Servis hakkında detaylı Bilgi: \nwww.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Bukra Bluetooth hoparlör aldım fakat Cihazımla eşleştiremiyorum. Speakerı görmüyor. \nYardımcı olur musunuz?",
+    "cevap": "Hoparlörünüz, daha önce başka bir cihazla eşleştirildiği için veya hali hazırda devam \neden aktif bir bağlantıdan ötürü eşleştirmede sorun yaşıyor olabilirsiniz. \n Bilgisayarınızı bağlıyorsanız, öncelikle Windows’un bluetooth aygıtlar kısmından görünen bir \nbukra cihazı varsa kaldırın ve yeni aygıt ekleden tekrar tanıtmayı deneyin. Bluetooth \nhoparlörünüzün ışıklarının yandığından bağlantısının açık olduğundan emin olun.  \nCep telefonunuzda ise benzer şekilde eşleşmiş cihazlardan kaldırıp tekrar deneyebilirsiniz. \nEğer hiçbir türlü Bukra hoparlörünüzü göremiyorsanız, ürünü incelenmesi için servisimize bir \nnot ile birlikte ulaştırmanızı tavsiye ederiz. Servis hakkında detaylı Bilgi: \nwww.monsternotebook.com.tr/teknik-servis/"
+  },
+  {
+    "soru": "Aryond V1.1 Monitörlerde Hoparlör desteği var mı?",
+    "cevap": "Aryond monitörlerin A27 1.1 ve A32 1.1 modellerinde dahili hoparlör \nbulunmamaktadır.  \nAncak cihazların arkasında bulunan 3.5 MM kulaklık çıkışı ile harici olarak Hoparlör veya \nKulaklığa bağlayabilirsiniz."
+  },
+  {
+    "soru": "Cihazımın dahili mikrofonu görüşme sırasında dışardan gelen sesleri nasıl \nfiltreleyebilirim",
+    "cevap": "Yöntem 1; \n1. Windows arama çubuğuna  “Realtek Audio Console’’ yazarak Enter tuşuna basınız. \nNot: ‘’Realtek Audio Console’’ uygulaması yüklü değil ise Windows’un içinde bulunan \nMicrosoft Store Mağaza uygulamasından yükleyebilirsiniz (mağaza oturumu kapalı olmalıdır). \n2. Realtek Audio Console uygulamasından ‘’Mikrofon’’ seçeneğine tıklayın. \n3. ‘’AEC hoparlörler sayesinde mikrofonlarla dışarıya sunulan sesin kaldırılmasını \nsağlamaktadır’’ seçeneğini ve ‘’Bu özellik sayesinde ortamda daimi olan sesler kayda \nkarışmaz’’ seçeneğini Açık durumuna getirin. \nYöntem 2; \n \n1. https://www.nvidia.com/tr-tr/geforce/broadcasting/broadcast-app/ bağlantısı üzerinden \nNVIDIA Broadcast uygulamasını yükleyin (Ekran kartının minimum RTX2060 veya RTX3050 \nolması gerekmektedir). \n2. Uygulama menüsünde bulunan mikrofon ayarlarından sesleri filtreleyebilirsiniz."
+  },
+  {
+    "soru": "İki Bukra hoparlörden nasıl stereo ses alabilirim?",
+    "cevap": "Bukra V1 ve Bukra V1 Max modellerinde bulunan True Wireless Stereo teknolojisi sayesinde \naynı model iki hoparlörü Bluetooth destekli bilgisayarınıza/cep telefonunuza bağlayarak \nstereo ses deneyimi yaşayabilirsiniz.  \nİki Bukra V1 veya Bukra V1 Max modelini bilgisayarınıza/cep telefonunuza bağlamak için \naşağıdaki adımları uygulayabilirsiniz:  \n1. Power tuşuna 3 sn basılı tutularak cihazı açın, \n \n2. Her iki cihazda bulunan Bluetooth eşleştirme tuşuna aynı anda 3 sn. basılı tutarak \nBluetooth eşleştirme modunu etkinleştirin. Bu sayede iki Bukra hoparlör birbiriyle \notomatik olarak eşleşecektir, \n \n3. Bilgisayarınızın/ cep telefonunuzun (Windows, Android, iOS) Bluetooth eşleştirme \nmenüsüne girerek tarama yapın, \n4. İki Bukra modeli birbiriyle eşleştiği için Bluetooth listesinde sadece bir Bukra model \nadı görünecektir. Eşleştirmeyi tamamlayarak Stereo deneyimini kullanmaya \nbaşlayabilirsiniz."
+  },
+  {
+    "soru": "Tulpar T7 V25.1 Hangi ses kartı çipi kullanılmaktadır?",
+    "cevap": "Realtek ALC298  model ses kartı çipi kullanılmaktadır."
+  },
+  {
+    "soru": "Bilgisayarımda aniden ses kısılıyor. Bu sorun neden olur?",
+    "cevap": "Ses kısılması sorununu gidermek için aşağıdaki adımlar uygulanmalıdır; \n1. Denetim Masası > Ses > Kayıttan Yürüt > Audio - THX Spatial Audio > Gelişmiş > Ses \nGelişmelerini Etkinleştir yazısının sol tarafındaki işaret tiki kaldırılmalıdır. \n2. Ses kısılma sorununun devam etmesi durumunda cihazda yüklü olan THX arayüzü ve \nRealtek Audio ses sürücüleri Ekle-Kaldır menüsünden kaldırılarak cihaz yeniden \nbaşlatılmalıdır. \nGenel / Public / Kişisel Veri İçermez \n71 \n \n3. https://www.monsternotebook.com.tr/suruculer/ adresinden uyumlu ses sürücüleri \nindirilerek tekrar yüklemelidir. Sorunların tekrar devam etmesi durumunda İşletim Sistemi \nyeniden yüklenmelidir."
+  },
+  {
+    "soru": "Harici veya dahili mikrofon ile anlık sesli konuşma esnasında video açtığımda \nmikrofonum devre dışı kalıyor. Ne yapabilirim?",
+    "cevap": "1. Başlat Menüsü (Arama kutusuna Aygıt yöneticisi yazılmalı) > ‘’Aygıt \nyöneticisi’’ menüsüne giriş yapılmalıdır. \n2. Aygıt yöneticisi menüsünde bulunan ‘’Ses girişleri ve çıkışları’’ ve ‘’Ses, \nvideo ve oyun  denetleyicileri’’ başlıklarının altında bulunan ‘’Realtek \n(R) Audio’’ aygıtları ‘’Cihazı kaldır’’ (üzerine tıklanarak açılan menüden \n‘’Sürücü’’ sekmesine gelinmeli ve cihazı kaldır seçeneğine \ntıklanmalıdır) seçeneğine tıklanarak kaldırılmalıdır. \n3. Monster Sürücüler \n(https://www.monsternotebook.com.tr/suruculer/) sayfasından cihaz \nmodeline uygun ses sürücüsü indirilerek tekrar yüklenmelidir. \n4.  Denetim Masası > Ses > İletişim > ‘’Windows iletişim etkinliği \nalgılandığında’’ başlığı altında bulunan ‘’Hiçbir şey yapma’’ seçeneği \nişaretlenerek ‘’Tamam’’ butonuna tıklanmalıdır. \nSorunun Tekrar Devam Etmesi Durumunda; \n \nDenetim Masası > Ses > Kayıt > Mikrofon (harici mikrofonun ismi farklılık gösterebilir) > \nGelişmiş >’’Uygulamaların bu aygıtın öncelikli denetimini ele almasına izin ver’’ seçeneğinin \ntiki kaldırılarak ‘’Tamam’’ butonuna tıklanmalıdır."
+  },
+  {
+    "soru": "Abra A5 V15.8 modelinin …./Ses Kartı özellikleri nedir?",
+    "cevap": "SES KARTI: REALTEK ALC256 - THX DESTEKLİ \nIntel i7-10750H-2,60GHz Turbo Boost ile 5,0GHz \nNvidia GTX1650 Ti 4GB GDDR6 \n15,6\" FHD 1920x1080 120Hz IPS Mat LED Ekran \n8GB (1x8GB) DDR4 2933MHz \n250GB WD BLUE SN550 M.2 SSD \nFreeDos (İşletim sistemi bulunmamaktadır) \n3 Adet Disk Desteği (2x M.2 SSD + 1x 2.5\" Disk) \nRGB Tek Bölge Aydınlatmalı Klavye \n25.8mm Kalınlık \n2.1Kg Ağırlık \n \nGenel / Public / Kişisel Veri İçermez \n75"
+  }
+]
