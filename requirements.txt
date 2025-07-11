@@ -1,0 +1,32 @@
+# Monster Notebook RAG Chatbot Requirements
+# Core LangChain framework
+langchain==0.3.26
+langchain-openai>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+
+# Vector database
+faiss-cpu>=1.7.4
+
+# OpenAI integration
+openai>=1.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Web framework (optional - for future web interface)
+fastapi>=0.100.0
+uvicorn>=0.20.0
+
+# Development dependencies
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
