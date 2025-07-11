@@ -1,0 +1,1 @@
+Monster Notebook RAG System - Test Summary\n==================================================\n\nTest Date: 2025-07-11 15:26:11\nTotal Questions: 187\nSuccessful Tests: 187\nSuccess Rate: 100.0%\nAverage Length Ratio: 1.49\nTest Duration: 19.8 minutes\n\nDetailed results saved in: rag_test_results_20250711_152611.json\n
